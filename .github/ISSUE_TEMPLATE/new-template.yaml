@@ -1,0 +1,68 @@
+name: New Toturial
+description: File a new toturial request.
+title: "[New Toturial]: "
+#labels: ["bug", "triage"]
+assignees:
+  - huhuhang
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this tutorial submission!
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: ex. Linux Tutorial for Beginners
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Url
+      description: The URL of the tutorial you introduced.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of this tutorial
+      description: Introduce the tutorial content you provided.
+    validations:
+      required: true
+  - type: input
+    id: authors
+    attributes:
+      label: Authors
+      description: The authors of this tutorial, separate with commas.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Technical Tutorials
+        - University Courses
+        - Video Courses
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: What tags would you like to add to this tutorial? Separate them with commas.
+  - type: input
+    id: recommend_template
+    attributes:
+      label: Recommend a Template
+      description: Which [template](https://getvm.io/templates) would you like to recommend for this tutorial?
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Terms of Service](https://getvm.io/terms) and [Privacy Policy](https://getvm.io/privacy). 
+      options:
+        - label: I agree
+          required: true
