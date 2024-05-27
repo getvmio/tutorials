@@ -2,8 +2,8 @@ name: New Tutorial
 description: File a new tutorial request.
 title: "[New Tutorial]: "
 #labels: ["bug", "triage"]
-assignees:
-  - huhuhang
+#assignees:
+#  - huhuhang
 body:
   - type: markdown
     attributes:
@@ -61,7 +61,7 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
+      label: Terms
       description: By submitting this issue, you agree to follow our [Terms of Service](https://getvm.io/terms) and [Privacy Policy](https://getvm.io/privacy). 
       options:
         - label: I agree
