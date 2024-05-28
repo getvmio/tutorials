@@ -1,4 +1,10 @@
 const resp = await fetch(Deno.env.get("DUMP_URL")!, {});
+if (!resp.ok) {
+  throw new Error(
+    `Failed to upload tutorials: ${resp.status}, ${await resp.text()}`
+  );
+}
+
 const { paths } = await resp.json();
 
 const filename = "temp.md";
