@@ -1,0 +1,25 @@
+
+
+
+name: Upload Tutorials
+
+on:
+  push:
+    branches: ['main']
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Upload
+        run: |
+          deno task upload
