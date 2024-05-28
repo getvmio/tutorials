@@ -28,7 +28,7 @@ paths.forEach((path: Path) => {
 Array.from(pathMap.keys())
   .sort()
   .forEach((tag: string) => {
-    appendContent(`## ${tag}${"\n"}`);
+    appendContent(`### ${tag}${"\n"}`);
     const paths = pathMap.get(tag);
     paths?.forEach((path: Path) => {
       appendContent(`- [${path.name}](${path.url})`);
