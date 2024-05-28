@@ -3262,11 +3262,6 @@
   - *University of Oxford*
   - The course focusses on neural networks and uses the [Torch](https://github.com/torch/torch7/wiki/Cheatsheet) deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
 
-- [Practice Exams Understanding Computers and the Internet - Harvard University Extension College](http://www.csce.uark.edu/~sgauch/2004/S14/index.html)
-  - **University Courses**, **Programming**
-  - *Harvard University Extension College*
-  - This course is all about understanding: understanding whats going on inside your computer when you flip on the switch, why tech support has you constantly rebooting your computer, how everything you do on the Internet can be watched by others, and how your computer can become infected with a worm just by being turned on. Designed for students who use computers and the Internet every day but dont fully understand how it all works, this course fills in the gaps. Through lectures on hardware, software, the Internet, multimedia, security, privacy, website development, programming, and more, this course "takes the hood off" of computers and the Internet so that students understand how it all works and why. Through discussions of current events, students are exposed also to the latest technologies.
-
 - [CS-for-all CS for All - Harvey Mudd College](http://www.cs.hmc.edu/csforall/)
   - **University Courses**, **Programming**
   - *Harvey Mudd College*
