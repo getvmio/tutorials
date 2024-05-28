@@ -13,6 +13,10 @@ on:
 jobs:
   upload:
     runs-on: ubuntu-latest
+    env:
+      API_SECRET: ${{ secrets.API_SECRET }}
+      DUMP_URL: ${{ vars.DUMP_URL }}
+      UPLOAD_URL: ${{ vars.UPLOAD_URL }}
     steps:
       - uses: actions/checkout@v4
 
