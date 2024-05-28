@@ -1,13 +1,23 @@
-# Tutorials
+# Free Tutorials on GetVM
 
-## AWK
+## Intro
+
+Explore our extensive collection of free tutorials and courses. Elevate your tech skills through hands-on practice with GetVM.
+
+## How To Contribute
+
+[![Submit New Tutorial](https://img.shields.io/badge/Submit%20New%20Tutorial-blue?style=for-the-badge)](https://github.com/getvmio/tutorials/issues/new?assignees=&labels=&projects=&template=1-new-tutorial.yaml&title=%5BNew+Tutorial%5D%3A+)
+
+## Tutorials
+
+### AWK
 
 - [Gawk: Effective AWK Programming](https://www.gnu.org/software/gawk/manual)
   - **Technical Tutorials**, **AWK**
   - *Arnold D. Robbins*
   - Gawk: Effective AWK Programming is a comprehensive guide to GNU AWK, providing extensive coverage of AWK programming, text processing, and GNU software.
 
-## Algorithm
+### Algorithm
 
 - [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)
   - **Technical Tutorials**, **Algorithm**
@@ -126,7 +136,7 @@
 
 - [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0)
   - **Video Courses**, **Algorithm**
-  - *Pasan Premaratne*, * Jay McGavren*
+  - *Pasan Premaratne*
   - An in-depth tutorial on algorithms and data structures for beginners, presented by Pasan Premaratne and Jay McGavren.
 
 - [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo)
@@ -196,7 +206,7 @@
 - [CS 4820 Introduction to Analysis of Algorithms - Cornell University](http://www.cs.cornell.edu/courses/CS4820/2015sp/)
   - **University Courses**, **Algorithm**
   - *Cornell University*
-  -  This course develops techniques used in the design and analysis of algorithms, with an emphasis on problems arising in computing applications. Example applications are drawn from systems and networks, artificial intelligence, computer vision, data mining, and computational biology. This course covers four major algorithm design techniques (greedy algorithms, divide and conquer, dynamic programming, and network flow), computability theory focusing on undecidability, computational complexity focusing on NP-completeness, and algorithmic techniques for intractable problems, including identification of structured special cases, approximation algorithms, and local search heuristics.
+  - This course develops techniques used in the design and analysis of algorithms, with an emphasis on problems arising in computing applications. Example applications are drawn from systems and networks, artificial intelligence, computer vision, data mining, and computational biology. This course covers four major algorithm design techniques (greedy algorithms, divide and conquer, dynamic programming, and network flow), computability theory focusing on undecidability, computational complexity focusing on NP-completeness, and algorithmic techniques for intractable problems, including identification of structured special cases, approximation algorithms, and local search heuristics.
 
 - [CSCI 104 Data Structures and Object Oriented Design - University of Southern California USC](http://www-scf.usc.edu/~csci104/20142/lectures/)
   - **University Courses**, **Algorithm**
@@ -226,17 +236,27 @@
 - [CSE 373 Analysis of Algorithms - Stony Brook University](http://www3.cs.stonybrook.edu/~skiena/373/)
   - **University Courses**, **Algorithm**
   - *Stony Brook University*
-  - Prof Steven Skienas no stranger to any student when it comes to algorithms. His seminal [book](http://www.algorist.com/) has been touted by many to be best for [getting that job in Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). In addition, hes also well-known for tutoring students in competitive [programming competitions](http://www.programming-challenges.com/pg.php?page=index). If youre looking to brush up your knowledge on Algorithms, you cant go wrong with this course.
+  - Prof Steven Skienas no stranger to any student when it comes to algorithms. His seminal 
+  - [book](http://www.algorist.com/)
+  -  has been touted by many to be best for 
+  - [getting that job in Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+  - . In addition, hes also well-known for tutoring students in competitive 
+  - [programming competitions](http://www.programming-challenges.com/pg.php?page=index)
+  - . If youre looking to brush up your knowledge on Algorithms, you cant go wrong with this course.
 
 - [ECS 122A Algorithm Design and Analysis - UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs122f10/)
   - **University Courses**, **Algorithm**
   - *UC Davis*
-  - Taught by [Dan Gusfield](http://web.cs.ucdavis.edu/~gusfield/) in 2010, this course is an undergraduate introduction to algorithm design and analysis. It features traditional topics, such as Big Oh notation, as well as an importance on implementing specific algorithms. Also featured are sorting (in linear time), graph algorithms, depth-first search, string matching, dynamic programming, NP-completeness, approximation, and randomization.
+  - Taught by 
+  - [Dan Gusfield](http://web.cs.ucdavis.edu/~gusfield/)
+  -  in 2010, this course is an undergraduate introduction to algorithm design and analysis. It features traditional topics, such as Big Oh notation, as well as an importance on implementing specific algorithms. Also featured are sorting (in linear time), graph algorithms, depth-first search, string matching, dynamic programming, NP-completeness, approximation, and randomization.
 
 - [ECS 222A Graduate Level Algorithm Design and Analysis - UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs222w11/)
   - **University Courses**, **Algorithm**
   - *UC Davis*
-  - This is the graduate level complement to the ECS 122A undergraduate algorithms course by [Dan Gusfield](http://web.cs.ucdavis.edu/~gusfield/) in 2011. It assumes an undergrad course has already been taken in algorithms, and, while going over some undergraduate algorithms topics, focuses more on increasingly complex and advanced algorithms.
+  - This is the graduate level complement to the ECS 122A undergraduate algorithms course by 
+  - [Dan Gusfield](http://web.cs.ucdavis.edu/~gusfield/)
+  -  in 2011. It assumes an undergrad course has already been taken in algorithms, and, while going over some undergraduate algorithms topics, focuses more on increasingly complex and advanced algorithms.
 
 - [6.INT Hacking a Google Interview - MIT](https://courses.csail.mit.edu/iap/interview/index.php)
   - **University Courses**, **Algorithm**
@@ -251,12 +271,16 @@
 - [6.046J/18.410J Design and Analysis of Algorithms - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
   - **University Courses**, **Algorithm**
   - *MIT*
-  - This is an intermediate algorithms course with an emphasis on teaching techniques for the design and analysis of efficient algorithms, emphasizing methods of application. Topics include divide-and-conquer, randomization, dynamic programming, greedy algorithms, incremental improvement, complexity, and cryptography. This course assumes that students know how to analyze simple algorithms and data structures from having taken [6.006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/). It introduces students to the design of computer algorithms, as well as analysis of sophisticated algorithms.
+  - This is an intermediate algorithms course with an emphasis on teaching techniques for the design and analysis of efficient algorithms, emphasizing methods of application. Topics include divide-and-conquer, randomization, dynamic programming, greedy algorithms, incremental improvement, complexity, and cryptography. This course assumes that students know how to analyze simple algorithms and data structures from having taken 
+  - [6.006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+  - . It introduces students to the design of computer algorithms, as well as analysis of sophisticated algorithms.
 
 - [6.851 Advanced Data Structures - MIT](https://courses.csail.mit.edu/6.851/spring21/index.html)
   - **University Courses**, **Algorithm**
   - *MIT*
-  - This is an advanced DS course, you must be done with the [Advanced Algorithms](https://courses.csail.mit.edu/6.854/current/) course before attempting this one.
+  - This is an advanced DS course, you must be done with the 
+  - [Advanced Algorithms](https://courses.csail.mit.edu/6.854/current/)
+  -  course before attempting this one.
 
 - [6.854/18.415J Advanced Algorithms - MIT](https://courses.csail.mit.edu/6.854/current/)
   - **University Courses**, **Algorithm**
@@ -271,7 +295,9 @@
 - [15-451/651 Algorithms - Carnegie Mellon University](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/)
   - **University Courses**, **Algorithm**
   - *Carnegie Mellon University*
-  - The required algorithms class that go in depth into all basic algorithms and the proofs behind them. This is one of the heavier algorithms curriculums on this page. Taught by Avrim Blum and [Manuel Blum](http://en.wikipedia.org/wiki/Manuel_Blum) who has a Turing Award due to his contributions to algorithms. Course link includes a very comprehensive set of reference notes by Avrim Blum.
+  - The required algorithms class that go in depth into all basic algorithms and the proofs behind them. This is one of the heavier algorithms curriculums on this page. Taught by Avrim Blum and 
+  - [Manuel Blum](http://en.wikipedia.org/wiki/Manuel_Blum)
+  -  who has a Turing Award due to his contributions to algorithms. Course link includes a very comprehensive set of reference notes by Avrim Blum.
 
 - [16s-4102 Algorithms - University of Virginia](http://www.cs.virginia.edu/~shelat/16s-4102/)
   - **University Courses**, **Algorithm**
@@ -286,7 +312,7 @@
 - [CS 103 Mathematical Foundations of Computing - Stanford University](http://web.stanford.edu/class/cs103/)
   - **University Courses**, **Algorithm**
   - *Stanford University*
-  -  CS103 is a first course in discrete math, computability theory, and complexity theory. In this course, well probe the limits of computer power, explore why some problems are harder to solve than others, and see how to reason with mathematical certainty.
+  - CS103 is a first course in discrete math, computability theory, and complexity theory. In this course, well probe the limits of computer power, explore why some problems are harder to solve than others, and see how to reason with mathematical certainty.
 
 - [CS 173 Discrete Structures - Univ of Illinois Urbana-Champaign](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/index.html)
   - **University Courses**, **Algorithm**
@@ -311,14 +337,14 @@
 - [CS 4810 Introduction to Theory of Computing - Cornell University](https://www.dsteurer.org/toc13/)
   - **University Courses**, **Algorithm**
   - *Cornell University*
-  -  This undergraduate course provides a broad introduction to the mathematical foundations of computer science. We will examine basic computational models, especially Turing machines. The goal is to understand what problems can or cannot be solved in these models.
+  - This undergraduate course provides a broad introduction to the mathematical foundations of computer science. We will examine basic computational models, especially Turing machines. The goal is to understand what problems can or cannot be solved in these models.
 
 - [CS 6810 Theory of Computing - Cornell University](https://complexity16.dsteurer.org/)
   - **University Courses**, **Algorithm**
   - *Cornell University*
-  -  This graduate course gives a broad introduction to complexity theory, including classical results and recent developments. Complexity theory aims to understand the power of efficient computation (when computational resources like time and space are limited). Many compelling conceptual questions arise in this context. Most of these questions are (surprisingly?) difficult and far from being resolved. Nevertheless, a lot of progress has been made toward understanding them (and also why they are difficult). We will learn about these advances in this course. A theme will be combinatorial constructions with random-like properties, e.g., expander graphs and error-correcting codes. Some examples:
+  - This graduate course gives a broad introduction to complexity theory, including classical results and recent developments. Complexity theory aims to understand the power of efficient computation (when computational resources like time and space are limited). Many compelling conceptual questions arise in this context. Most of these questions are (surprisingly?) difficult and far from being resolved. Nevertheless, a lot of progress has been made toward understanding them (and also why they are difficult). We will learn about these advances in this course. A theme will be combinatorial constructions with random-like properties, e.g., expander graphs and error-correcting codes. Some examples:
 
-## Angular
+### Angular
 
 - [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
   - **Technical Tutorials**, **Angular**
@@ -347,7 +373,7 @@
 
 - [Angular Fast Crash Course](https://www.udemy.com/angular-fast-crash-course/)
   - **Video Courses**, **Angular**
-  - *Edwin Diaz*, * Coding Faculty Solutions*
+  - *Edwin Diaz*
   - Angular Fast Crash Course by Edwin Diaz and Coding Faculty Solutions is a comprehensive guide to learning Angular for web development. This crash course covers essential Angular concepts and hands-on exercises to help readers build dynamic web applications.
 
 - [Angular for Beginners](https://www.udemy.com/course/angular-for-beginners-course/)
@@ -368,7 +394,7 @@
   - **Technical Tutorials**, **Angular**, **JavaScript**
   - A comprehensive guide to building your own AngularJS framework, covering scopes, digest cycle, and more.
 
-## Ansible
+### Ansible
 
 - [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook)
   - **Technical Tutorials**, **Ansible**
@@ -377,20 +403,19 @@
 
 - [Ansible Basics: An Automation Technical Overview](https://www.udemy.com/course/ansible-basics-an-automation-technical-overview)
   - **Video Courses**, **Ansible**
-  - *Red Hat*, * Inc.*
+  - *Red Hat*
   - Learn the basics of Ansible and gain a technical overview of automation with Red Hat, Inc.
 
 - [Ansible for the Absolute Beginner - DevOps](https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops)
   - **Video Courses**, **Ansible**, **DevOps**
-  - * Vijay Patel*
   - Introduction to Ansible for absolute beginners in the context of DevOps
 
 - [DevOps: Beginners Guide To Automation With Ansible](https://www.udemy.com/course/devops-beginners-guide-to-automation-with-ansible)
   - **Video Courses**, **Ansible**, **DevOps**
-  - *TetraNoodle Team*, * Manuj Aggarwal*
+  - *TetraNoodle Team*
   - Learn the fundamentals of DevOps and automation using Ansible with this beginners guide by TetraNoodle Team and Manuj Aggarwal.
 
-## Artificial Intelligence
+### Artificial Intelligence
 
 - [DALLE-E 2 prompt book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book.pdf)
   - **Technical Tutorials**, **Artificial Intelligence**
@@ -430,16 +455,18 @@
 - [6.868J The Society of Mind - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm)
   - **University Courses**, **Artificial Intelligence**
   - *MIT*
-  - This course is an introduction, by Prof. [Marvin Minsky](http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0), to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.
+  - This course is an introduction, by Prof. 
+  - [Marvin Minsky](http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0)
+  - , to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.
 
-## Assembly
+### Assembly
 
 - [The Art of Assembly Language (2003)](https://web.archive.org/web/20120525102637/http://maven.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html)
   - **Technical Tutorials**, **Assembly**
   - *Randall Hyde*
   - The Art of Assembly Language is a comprehensive guide to understanding and mastering assembly language programming, providing insights into computer programming and software development.
 
-## Bash
+### Bash
 
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
   - **Technical Tutorials**, **Bash**, **Linux**
@@ -486,7 +513,7 @@
   - *Kumulus Technologies*
   - Bash Basics for Cloud Computing by Kumulus Technologies. This course covers the fundamentals of using Bash scripts and commands for cloud computing, focusing on Linux-based systems.
 
-## Big Data
+### Big Data
 
 - [Big Data Analytics with Hadoop 3](https://www.packtpub.com/free-ebooks/big-data-analytics-hadoop-3)
   - **Technical Tutorials**, **Big Data**, **Hadoop**
@@ -500,10 +527,10 @@
 
 - [Learning Spark: Lightning-Fast Data Analytics](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf)
   - **Technical Tutorials**, **Big Data**, **Spark**
-  - *Jules S. Damji*, * Brooke Wenig*, * Tathagata Das*, * Denny Lee*
+  - *Jules S. Damji*
   - Learning Spark: Lightning-Fast Data Analytics
 
-## Blockchain
+### Blockchain
 
 - [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
   - **Technical Tutorials**, **Blockchain**
@@ -552,7 +579,7 @@
   - **Technical Tutorials**, **Blockchain**
   - A comprehensive guide to understanding and implementing blockchain technology through a step-by-step approach.
 
-## C
+### C
 
 - [A Tutorial on Pointers and Arrays in C](https://web.archive.org/web/20180827131006/http://home.earthlink.net/~momotuk/pointers.pdf)
   - **Technical Tutorials**, **C**
@@ -596,7 +623,7 @@
 
 - [Functional C (1997)](https://research.utwente.nl/files/5128727/book.pdf)
   - **Technical Tutorials**, **C**
-  - *Pieter H. Hartel*, * Henk Muller*
+  - *Pieter H. Hartel*
   - Functional C is a book written by Pieter H. Hartel and Henk Muller that focuses on the topic of functional programming in the C programming language. It provides insights into functional programming concepts and their application in C programming.
 
 - [Introduction to Programming and Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/)
@@ -626,7 +653,7 @@
 
 - [The C book](http://publications.gbdirect.co.uk/c_book/)
   - **Technical Tutorials**, **C**
-  - *Mike Banahan*, * Declan Brady*, * Mark Doran*
+  - *Mike Banahan*
   - The C Book by Mike Banahan, Declan Brady, and Mark Doran is a comprehensive guide to C programming, covering topics such as language syntax, software development, and programming techniques.
 
 - [The C Programming Language Handbook](https://flaviocopes.com/page/c-handbook/)
@@ -636,17 +663,17 @@
 
 - [The Current C Programming Language Standard _ ISO/IEC 9899:2018 (C17/C18), Draft](https://web.archive.org/web/20181230041359/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)
   - **Technical Tutorials**, **C**
-  - *Open Standards Org - www.open-std.org*
+  - *Open Standards Org - *
   - The Current C Programming Language Standard _ ISO/IEC 9899:2018 (C17/C18), Draft by Open Standards Org
 
 - [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
   - **Technical Tutorials**, **C**
-  - *Mark Burgess*, * Ron Hale-Evans*
+  - *Mark Burgess*
   - A comprehensive guide to learning C programming using GNU tools, authored by Mark Burgess and Ron Hale-Evans.
 
 - [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
   - **Technical Tutorials**, **C**
-  - *Trevis Rothwell*, * James Youngman*
+  - *Trevis Rothwell*
   - The GNU C Reference Manual by Trevis Rothwell and James Youngman is a comprehensive guide to the C programming language, covering topics such as syntax, semantics, and usage of GNU C. It provides in-depth knowledge about C programming and is an essential reference for developers and programmers.
 
 - [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html)
@@ -711,7 +738,7 @@
   - **Technical Tutorials**, **C**
   - Write a System Call by [] is a technical guide that delves into the intricacies of operating systems, system calls, and kernel development. It provides valuable insights into the concepts and processes involved in creating and implementing system calls in operating systems.
 
-## C++
+### C++
 
 - [C++ Language Tutorial](https://cplusplus.com/doc/tutorial/?utm_source=getvm.io)
   - **Technical Tutorials**, **C++**
@@ -765,7 +792,7 @@
 
 - [Introduction to Design Patterns in C++ with Qt 4](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf)
   - **Technical Tutorials**, **C++**
-  - *Alan Ezust*, * Paul Ezust*
+  - *Alan Ezust*
   - Introduction to Design Patterns in C++ with Qt 4 by Alan Ezust and Paul Ezust
 
 - [Joint Strike Fighter, C++ Coding Standards](http://www.stroustrup.com/JSF-AV-rules.pdf)
@@ -846,7 +873,7 @@
   - **Technical Tutorials**, **C++**
   - Remaking Cavestory in C++ by []
 
-## CI/CD
+### CI/CD
 
 - [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos](https://github.com/semaphoreci/book-monorepo-cicd)
   - **Technical Tutorials**, **CI/CD**
@@ -858,7 +885,7 @@
   - *Marko Anastasov*, *Ju00e9ru00f4me Petazzoni*, *Pablo Tom F. Zavalia*, *SemaphoreCI*
   - The book covers the concepts and practices of Continuous Integration/Continuous Deployment (CI/CD) using Docker and Kubernetes, authored by Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, and SemaphoreCI.
 
-## CSS
+### CSS
 
 - [Magic of CSS](https://adamschwartz.co/magic-of-css/)
   - **Technical Tutorials**, **CSS**
@@ -879,7 +906,7 @@
   - **Technical Tutorials**, **CSS**
   - A search engine in CSS is a book that explores the fascinating concept of creating a search engine using CSS. It delves into front-end development techniques and showcases the potential of CSS for building interactive and functional elements.
 
-## Cloud Computing
+### Cloud Computing
 
 - [Building Serverless Applications with Google Cloud Run](https://www.cockroachlabs.com/guides/oreilly-building-serverless-applications-with-google-cloud-run/)
   - **Technical Tutorials**, **Cloud Computing**
@@ -896,7 +923,7 @@
   - *Iain Foulds*
   - Learn Azure in a Month of Lunches is a practical guide to learning Microsoft Azure, covering cloud computing, infrastructure, and deployment strategies. Written by Iain Foulds, the book offers step-by-step tutorials and real-world examples for beginners and experienced users alike.
 
-## Compiler
+### Compiler
 
 - [Compiler Design in C (1990)](https://holub.com/goodies/compiler/compilerDesignInC.pdf)
   - **Technical Tutorials**, **Compiler**, **C**
@@ -973,12 +1000,9 @@
 - [CS 75 Principles of Compiler Design - Swathmore College](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
   - **University Courses**, **Compiler**
   - *Swathmore College*
-  - Modelled after the influential paper on [incremental approach to compiler design](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf), this course teaches how to build a compiler in OCaml
-
-- [CMSC 430 Introduction to Compilers - Univ of Maryland](http://www.cs.umd.edu/class/spring2015/cmsc430/)
-  - **University Courses**, **Compiler**
-  - *Univ of Maryland*
-  - The goal of CMSC 430 is to arm students with the ability to design, implement, and extend a programming language. Throughout the course, students will design and implement several related languages, and will explore parsing, syntax querying, dataflow analysis, compilation to bytecode, type systems, and language interoperation. 
+  - Modelled after the influential paper on 
+  - [incremental approach to compiler design](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+  - , this course teaches how to build a compiler in OCaml
 
 - [CS 143 Compiler construction - Stanford University](https://web.stanford.edu/class/cs143/)
   - **University Courses**, **Compiler**
@@ -995,7 +1019,7 @@
   - *Cornell University*
   - An introduction to the specification and implementation of modern compilers. Topics covered include lexical scanning, parsing, type checking, code generation and translation, an introduction to optimization, and compile-time and run-time support for modern programming languages.  As part of the course, students build a working compiler for an object-oriented language.
 
-## Computer Graphics
+### Computer Graphics
 
 - [Introduction to Modern OpenGL](https://open.gl)
   - **Technical Tutorials**, **Computer Graphics**
@@ -1019,7 +1043,7 @@
   - **Technical Tutorials**, **Computer Graphics**
   - A 3D Modeller provides insights into the world of 3D modeling, computer graphics, and software development. It covers techniques, tools, and best practices for creating 3D models.
 
-## Dart
+### Dart
 
 - [Learning Dart](https://riptutorial.com/Download/dart.pdf)
   - **Technical Tutorials**, **Dart**
@@ -1036,7 +1060,7 @@
   - *Krzysztof Kowalczyk*
   - Essential Dart is a comprehensive guide to the Dart programming language, authored by Krzysztof Kowalczyk. It covers essential concepts for programming and development using Dart.
 
-## Data Science
+### Data Science
 
 - [A Programmers Guide to Data Mining](http://guidetodatamining.com)
   - **Technical Tutorials**, **Data Science**
@@ -1093,7 +1117,7 @@
   - *Barton Poulson*
   - Learn Data Science Tutorial - Full Course for Beginners by Barton Poulson
 
-## Database
+### Database
 
 - [Database Design _ 2nd Edition](https://opentextbc.ca/dbdesign01/)
   - **Technical Tutorials**, **Database**
@@ -1142,7 +1166,7 @@
 
 - [MongoDB University](https://university.mongodb.com)
   - **Video Courses**, **Database**, **MongoDB**
-  - *MongoDB*, * Inc.*
+  - *MongoDB*
   - MongoDB University by MongoDB Inc. provides comprehensive insights into MongoDB, database management, and data handling.
 
 - [Introduction to Database Queries](https://www.edx.org/course/introduction-to-database-queries)
@@ -1172,21 +1196,21 @@
   - *UC Berkeley*
   - In the project assignments in CS186, you will write a basic database management system called SimpleDB. For this project, you will focus on implementing the core modules required to access stored data on disk; in future projects, you will add support for various query processing operators, as well as transactions, locking, and concurrent queries.
 
-## Delphi
+### Delphi
 
 - [Expert Delphi](https://www.packtpub.com/free-ebooks/expert-delphi)
   - **Technical Tutorials**, **Delphi**
   - *Paweu0142 Gu0142owacki*
   - Expert Delphi is a comprehensive guide to mastering Delphi programming and software development, authored by Pawe_ G_owacki.
 
-## Design Patterns
+### Design Patterns
 
 - [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read)
   - **Technical Tutorials**, **Design Patterns**
   - *Rahul Batra*
   - A comprehensive guide to understanding and implementing design patterns in software development.
 
-## DevOps
+### DevOps
 
 - [DevOps For Dummies, 3rd IBM Limited Edition](https://www.ibm.com/downloads/cas/P9NYOK3B)
   - **Technical Tutorials**, **DevOps**
@@ -1200,10 +1224,10 @@
 
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
   - **Video Courses**, **DevOps**
-  - *Karl Krueger*, * Dwayne Lessner*, * Gundega Dekena*
+  - *Karl Krueger*
   - Introductory course to DevOps with a focus on software development and IT operations.
 
-## Django
+### Django
 
 - [Django Rest Framework](https://riptutorial.com/Download/django-rest-framework.pdf)
   - **Technical Tutorials**, **Django**, **Python**
@@ -1215,7 +1239,7 @@
   - *Gaston C. Hillar*
   - Django RESTful Web Services is a comprehensive guide to building RESTful web services using Django. The book covers topics such as API development, authentication, serialization, and testing, providing practical examples and best practices for designing and implementing web services with Django.
 
-## Docker
+### Docker
 
 - [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf)
   - **Technical Tutorials**, **Docker**
@@ -1231,7 +1255,7 @@
   - **Technical Tutorials**, **Docker**, **Python**
   - A proof-of-concept imitation of Docker, written in 100% Python.
 
-## Elixir
+### Elixir
 
 - [30 Days of Elixir](https://github.com/seven1m/30-days-of-elixir)
   - **Technical Tutorials**, **Elixir**
@@ -1243,7 +1267,7 @@
   - *Kamil Skowron*
   - Hands-on guide to building a cryptocurrency trading bot using Elixir and OTP.
 
-## Emacs
+### Emacs
 
 - [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html)
   - **Technical Tutorials**, **Emacs**
@@ -1255,7 +1279,7 @@
   - *Craig A. Finseth*
   - The Craft of Text Editing is a comprehensive guide to text editing and Emacs, offering practical insights and techniques for software development and programming.
 
-## Embedded Systems
+### Embedded Systems
 
 - [First Steps with Embedded Systems](https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf)
   - **Technical Tutorials**, **Embedded Systems**
@@ -1267,7 +1291,7 @@
   - *Edward Ashford Lee*, *Sanjit Arunkumar Seshia*
   - Introduction to Embedded Systems, Second Edition by Edward Ashford Lee and Sanjit Arunkumar Seshia is a comprehensive guide to the fundamentals of embedded systems, covering topics such as hardware-software co-design, real-time operating systems, and embedded software design. The book provides a solid foundation for understanding and developing embedded systems for various applications.
 
-## Erlang
+### Erlang
 
 - [Erlang Programming](https://en.wikibooks.org/wiki/Erlang_Programming)
   - **Technical Tutorials**, **Erlang**
@@ -1279,7 +1303,7 @@
   - *Fred Hebert*
   - Learn You Some Erlang For Great Good is a comprehensive guide to Erlang programming, covering functional programming concepts, concurrency, and practical examples for building robust, fault-tolerant systems.
 
-## Flask
+### Flask
 
 - [Python Flask Tutorial](https://www.tutorialspoint.com/flask/)
   - **Technical Tutorials**, **Flask**, **Python**
@@ -1291,21 +1315,21 @@
   - *Miguel Grinberg*
   - The Flask Mega-Tutorial by Miguel Grinberg is a comprehensive guide to learning Flask, a popular web development framework for Python. The book covers topics such as web development, Flask framework, and Python programming.
 
-## Fortran
+### Fortran
 
 - [Modern Fortran Tutorial](https://masuday.github.io/fortran_tutorial/)
   - **Technical Tutorials**, **Fortran**
   - *Yutaka Masuda*
   - A comprehensive tutorial on modern Fortran programming, authored by Yutaka Masuda.
 
-## GDB
+### GDB
 
 - [Beejs Guide to the GNU Debugger (GDB)](http://beej.us/guide/bggdb/)
   - **Technical Tutorials**, **GDB**
   - *Brian Beej Jorgensen Hall*
   - A comprehensive guide to using GNU Debugger (GDB) for debugging programs. Written by Brian "Beej Jorgensen" Hall, the book provides detailed insights into GDBs features and usage, making it a valuable resource for programmers and software developers.
 
-## Game Development
+### Game Development
 
 - [2D Game Development: From Zero To Hero](https://github.com/Penaz91/2DGD_F0TH)
   - **Technical Tutorials**, **Game Development**
@@ -1332,7 +1356,7 @@
   - *Michael Abrash*
   - The book covers advanced graphics programming and theory, written by Michael Abrash, an expert in the field.
 
-## Git
+### Git
 
 - [get-git](https://get-git.readthedocs.io/en/latest/)
   - **Technical Tutorials**, **Git**
@@ -1452,7 +1476,7 @@
   - **Technical Tutorials**, **Git**, **Python**
   - A guide to building custom Git plugins using Python, providing step-by-step instructions and examples for extending Git functionality.
 
-## Go
+### Go
 
 - [Essentials of Go Programming](https://essentials-of-go-programming.readthedocs.io)
   - **Technical Tutorials**, **Go**
@@ -1486,7 +1510,7 @@
 
 - [How To Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)
   - **Technical Tutorials**, **Go**
-  - *Mark Bates*, * Cory Lanou*, * Timothy J. Raymond*
+  - *Mark Bates*
   - How To Code in Go is an in-depth guide to learning the Go programming language, authored by Mark Bates, Cory Lanou, and Timothy J. Raymond.
 
 - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
@@ -1566,21 +1590,21 @@
   - **Technical Tutorials**, **Go**
   - A simple terminal emulator written in 100 lines of Golang.
 
-## Gradle
+### Gradle
 
 - [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html)
   - **Technical Tutorials**, **Gradle**
-  - *Hans Dockter*, * Adam Murdoch*
+  - *Hans Dockter*
   - The Gradle User Guide provides comprehensive documentation and tutorials on Gradle, a powerful build automation tool, authored by Hans Dockter and Adam Murdoch.
 
-## GraphQL
+### GraphQL
 
 - [Learning graphqL](https://riptutorial.com/Download/graphql.pdf)
   - **Technical Tutorials**, **GraphQL**
   - *Compiled from StackOverflow Documentation*
   - A comprehensive guide to learning GraphQL from StackOverflow Documentation.
 
-## HTML
+### HTML
 
 - [Dive Into HTML5](http://diveinto.html5doctor.com)
   - **Technical Tutorials**, **HTML**
@@ -1647,7 +1671,7 @@
   - *Per Harald Borgen*
   - Learn HTML and CSS with 5 projects by Per Harald Borgen. This book covers the basics of web development, including HTML and CSS, and provides hands-on experience through project-based learning.
 
-## Haskell
+### Haskell
 
 - [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf)
   - **Technical Tutorials**, **Haskell**
@@ -1661,7 +1685,7 @@
 
 - [The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.tu-dortmund.de/~peter/PS07/HR.pdf)
   - **Technical Tutorials**, **Haskell**
-  - *Kees Doets*, * Jan van Eijck*
+  - *Kees Doets*
   - The Haskell Road to Logic, Math and Programming is a book that explores Haskell programming language and its application in logic and mathematics. It provides a comprehensive introduction to the intersection of programming, logic, and math, making it an excellent resource for beginners and experienced programmers alike.
 
 - [The Haskell School of Music - From Signals to Symphonies](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf)
@@ -1688,7 +1712,7 @@
   - *Stanford University*
   - Building software systems in Haskell
 
-## Hibernate
+### Hibernate
 
 - [Hibernate Notes for Professionals](https://books.goalkicker.com/HibernateBook)
   - **Technical Tutorials**, **Hibernate**
@@ -1700,7 +1724,7 @@
   - *Telusko*
   - Hibernate Tutorial for Beginners by Telusko
 
-## Java
+### Java
 
 - [CS 163/4: JAVA PROGRAMMING (CS 1) ](https://www.cs.colostate.edu/~cs163/.Summer21/labs/)
   - **University Courses**, **Java**
@@ -1738,7 +1762,7 @@
 
 - [The Java EE7 Tutorial](https://docs.oracle.com/javaee/7/JEETT.pdf)
   - **Technical Tutorials**, **Java**
-  - *Eric Jendrock*, * et al.*
+  - *Eric Jendrock*
   - The Java EE7 Tutorial is a comprehensive guide to Java EE 7, covering web development, programming, and Java EE technologies.
 
 - [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book)
@@ -1748,17 +1772,16 @@
 
 - [Think Java: How to Think Like a Computer Scientist, 2nd Edition](https://greenteapress.com/wp/think-java-2e/)
   - **Technical Tutorials**, **Java**
-  - *Allen B. Downey*, * Chris Mayfield*
+  - *Allen B. Downey*
   - Think Java: How to Think Like a Computer Scientist, 2nd Edition is a comprehensive guide to Java programming, computer science principles, and computational thinking. Written by Allen B. Downey and Chris Mayfield, this book covers fundamental concepts and practical application of Java for aspiring computer scientists and programmers.
 
 - [Writing Advanced Applications for the Java 2 Platform](http://www.pawlan.com/monica/books/AdvBk.pdf)
   - **Technical Tutorials**, **Java**
-  - *Calvin Austin*, * Monica Pawlan*
+  - *Calvin Austin*
   - This book provides advanced insights into writing applications for the Java 2 platform, authored by Calvin Austin and Monica Pawlan.
 
 - [Fundamentals of Java EE Development](https://www.edx.org/course/fundamentals-of-java-ee-development)
   - **Video Courses**, **Java**, **Java**
-  - * Will Dinyes*
   - The book "Fundamentals of Java EE Development" provides a comprehensive overview of Java EE development, covering topics such as web applications, software development, and Java EE programming. The book is authored by Will Dinyes.
 
 - [Java Design Patterns and Architecture](https://www.udemy.com/course/java-design-patterns-tutorial)
@@ -1773,7 +1796,7 @@
 
 - [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
   - **Video Courses**, **Java**
-  - *Cezanne Camacho*, * Asser Samak*
+  - *Cezanne Camacho*
   - A comprehensive guide to Java programming for beginners, authored by Cezanne Camacho and Asser Samak.
 
 - [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/)
@@ -1798,12 +1821,7 @@
   - **Technical Tutorials**, **Java**
   - Code a 2D Game Engine using Java - Full Course for Beginners
 
-## JavaScript
-
-- [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
-  - **Technical Tutorials**, **JavaScript**
-  - *w3schools*
-  - JavaScript is the world's most popular programming language. JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced. Examples are better than 1000 words. Examples are often easier to understand than text explanations. 
+### JavaScript
 
 - [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/JsFrontendApp-Book)
   - **Technical Tutorials**, **JavaScript**
@@ -1852,7 +1870,7 @@
 
 - [JavaScript for Data Science](https://third-bit.com/js4ds/)
   - **Technical Tutorials**, **JavaScript**, **Data Science**
-  - *Maya Gans*, * Toby Hodges*, * Greg Wilson*
+  - *Maya Gans*
   - JavaScript for Data Science by Maya Gans, Toby Hodges, Greg Wilson is a comprehensive guide to using JavaScript for data science, covering topics like data visualization, web development, and programming for data analysis.
 
 - [JavaScript for Impatient Programmers (ES2022 edition)](https://exploringjs.com/impatient-js/)
@@ -1892,7 +1910,7 @@
 
 - [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way)
   - **Technical Tutorials**, **JavaScript**
-  - *William Oliveira*, * Allan Esquina*
+  - *William Oliveira*
   - JavaScript the Right Way is a comprehensive guide to JavaScript, covering best practices, modern techniques, and important concepts for web development.
 
 - [JavaScript Wikibook](https://en.wikibooks.org/wiki/JavaScript)
@@ -2030,14 +2048,14 @@
   - **Technical Tutorials**, **JavaScript**, **Algorithm**
   - A comprehensive guide to JavaScript algorithms and data structures for software developers and programmers.
 
-## Jenkins
+### Jenkins
 
 - [Jenkins | Step-by-Step for Complete Beginners](https://www.udemy.com/course/jenkins-step-by-step-for-complete-beginners/)
   - **Video Courses**, **Jenkins**
   - *Raghav Pal*
   - Jenkins | Step-by-Step for Complete Beginners is a comprehensive guide to learning Jenkins for beginners. It covers automation, DevOps, and step-by-step tutorials for setting up Jenkins.
 
-## Julia
+### Julia
 
 - [Julia by Example](http://samuelcolvin.github.io/JuliaByExample)
   - **Technical Tutorials**, **Julia**
@@ -2056,7 +2074,7 @@
 
 - [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
   - **Technical Tutorials**, **Julia**
-  - *Ben Lauwens*, * Allen Downey*
+  - *Ben Lauwens*
   - Think Julia is a book written by Ben Lauwens and Allen Downey that introduces readers to the Julia programming language. It covers topics related to programming, Julia language, and computer science.
 
 - [Introduction to DataFrames.jl](https://juliaacademy.com/p/introduction-to-dataframes-jl)
@@ -2064,18 +2082,18 @@
   - *Bogumiu0142 Kamiu0144ski*
   - Introduction to DataFrames.jl is a comprehensive guide to working with DataFrames in the Julia programming language, useful for data analysis and manipulation.
 
-## Kafka
+### Kafka
 
 - [Kafka, The definitive Guide](https://assets.confluent.io/m/1b509accf21490f0/original/20170707-EB-Confluent_Kafka_Definitive-Guide_Complete.pdf)
   - **Technical Tutorials**, **Kafka**
   - *Neha Narkhede*
   - Kafka: The Definitive Guide provides a comprehensive overview of Apache Kafka, covering topics such as data streaming, big data, and the use of Kafka technology. Authored by Neha Narkhede, this guide offers valuable insights into the world of data management and streaming platforms.
 
-## Kali Linux
+### Kali Linux
 
 - [Kali Linux 2018: Assuring Security by Penetration Testing, Fourth Edition](https://www.packtpub.com/free-ebooks/kali-linux-2018-assuring-security-penetration-testing-fourth-edition)
   - **Technical Tutorials**, **Kali Linux**, **Security**
-  - *Shiva V. N Parasram*, * Alex Samm*, * Damian Boodoo*, * Gerard Johansen*, * Lee Allen*, * Tedi Heriyanto*, * Shakeel Ali*
+  - *Shiva V. N Parasram*
   - Kali Linux 2018: Assuring Security by Penetration Testing, Fourth Edition
 
 - [Ethical Hacking - Basics (Kali 2021)](https://www.udemy.com/course/ethical-hacking-basics-kali-20211)
@@ -2088,7 +2106,7 @@
   - *Musab Zayadneh*
   - A hands-on course on ethical hacking using Kali Linux command line interface (CLI), taught by Musab Zayadneh.
 
-## Kotlin
+### Kotlin
 
 - [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/)
   - **Technical Tutorials**, **Kotlin**
@@ -2107,7 +2125,7 @@
 
 - [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
   - **Video Courses**, **Kotlin**
-  - *Aleks Haecky*, * Asser Samak*, * Sean McQuillan*
+  - *Aleks Haecky*
   - Kotlin Bootcamp for Programmers by Aleks Haecky, Asser Samak, Sean McQuillan is a comprehensive guide to learning Kotlin programming for beginners. The book covers the fundamentals of Kotlin, programming techniques, and practical application in building software solutions.
 
 - [One hour Kotlin guide for beginners](https://www.udemy.com/course/one-hour-kotlin-guide-for-beginners)
@@ -2117,10 +2135,10 @@
 
 - [Track: Kotlin Basics](https://hyperskill.org/tracks/18)
   - **Video Courses**, **Kotlin**
-  - *Hyperskill*, * JetBrains*
+  - *Hyperskill*
   - The book covers Kotlin programming basics and is authored by Hyperskill and JetBrains.
 
-## Kubernetes
+### Kubernetes
 
 - [Kubernetes Hardening Guidance](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF)
   - **Technical Tutorials**, **Kubernetes**
@@ -2147,7 +2165,7 @@
   - *Bogdan Stashchuk*
   - A comprehensive Kubernetes course by Bogdan Stashchuk.
 
-## LaTeX
+### LaTeX
 
 - [LaTex Notes for Professionals](https://goalkicker.com/LaTeXBook/)
   - **Technical Tutorials**, **LaTeX**
@@ -2159,7 +2177,7 @@
   - *Christian Feursu00e4nger*
   - Notes On Programming in TeX by Christian Feurs?nger
 
-## Linux
+### Linux
 
 - [Introduction to Linux – Full Course for Beginners](https://www.youtube.com/watch?v=sWbUDq4S6Y8)
   - **Video Courses**, **Linux**
@@ -2198,7 +2216,7 @@
 
 - [Linux Appliance Design: A Hands-On Guide to Building Linux Appliances](http://librta.org/book.html)
   - **Technical Tutorials**, **Linux**
-  - *Bob Smith*, * John Hardin*, * Graham Phillips*, * Bill Pierce*
+  - *Bob Smith*
   - A book on building Linux appliances, covering design and implementation aspects.
 
 - [Linux commands Notes for Professionals](https://goalkicker.com/LinuxBook/)
@@ -2281,7 +2299,7 @@
   - **Technical Tutorials**, **Linux**
   - Creating a Linux desktop application with Ruby for GTK
 
-## Machine Learning
+### Machine Learning
 
 - [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V)
   - **Technical Tutorials**, **Machine Learning**
@@ -2370,7 +2388,7 @@
 
 - [Exploring Fairness in Machine Learning for International Development](https://ocw.mit.edu/resources/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020)
   - **Video Courses**, **Machine Learning**
-  - *Richard Fletcher*, * Daniel Frey*, * Mike Teodorescu*, * Amit Gandhi*, * Audace Nakeshimana*
+  - *Richard Fletcher*
   - Exploring Fairness in Machine Learning for International Development by Richard Fletcher, Daniel Frey, Mike Teodorescu, Amit Gandhi, Audace Nakeshimana.
 
 - [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning)
@@ -2380,7 +2398,7 @@
 
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
   - **Video Courses**, **Machine Learning**, **Data Science**
-  - *Andrew Ng*, * Eddy Shyu*, * Aarti Bagul*, * Geoff Ladwig*
+  - *Andrew Ng*
   - Machine Learning Specialization by Andrew Ng, Eddy Shyu, Aarti Bagul, and Geoff Ladwig.
 
 - [Developing a License Plate Recognition System with Machine Learning in Python](https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
@@ -2394,7 +2412,9 @@
 - [DEEPNLP Deep Learning for Natural Language Processing - University of Oxford](https://github.com/oxford-cs-deepnlp-2017/)
   - **University Courses**, **Machine Learning**
   - *University of Oxford*
-  - This is an applied course focussing on recent advances in analysing and generating speech and text using recurrent neural networks. We introduce the mathematical definitions of the relevant machine learning models and derive their associated optimisation algorithms. The course covers a range of applications of neural networks in NLP including analysing latent dimensions in text, transcribing speech to text, translating between languages, and answering questions. This course is organised by Phil Blunsom and delivered in partnership with the **DeepMind Natural Language Research Group**.
+  - This is an applied course focussing on recent advances in analysing and generating speech and text using recurrent neural networks. We introduce the mathematical definitions of the relevant machine learning models and derive their associated optimisation algorithms. The course covers a range of applications of neural networks in NLP including analysing latent dimensions in text, transcribing speech to text, translating between languages, and answering questions. This course is organised by Phil Blunsom and delivered in partnership with the 
+  - **DeepMind Natural Language Research Group**
+  - .
 
 - [CS20si Tensorflow for Deep Learning Research - Stanford University](http://web.stanford.edu/class/cs20si/index.html)
   - **University Courses**, **Machine Learning**
@@ -2404,17 +2424,14 @@
 - [COMS 4771 Machine Learning - Columbia University](http://www.cs.columbia.edu/~jebara/4771/index.html)
   - **University Courses**, **Machine Learning**
   - *Columbia University*
-  - Course taught by [Tony Jebara](http://www.cs.columbia.edu/~jebara/resume.html) introduces topics in Machine Learning for both generative and discriminative estimation. Material will include least squares methods, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models, hidden Markov models, support vector machines, and kernel methods.
+  - Course taught by 
+  - [Tony Jebara](http://www.cs.columbia.edu/~jebara/resume.html)
+  -  introduces topics in Machine Learning for both generative and discriminative estimation. Material will include least squares methods, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models, hidden Markov models, support vector machines, and kernel methods.
 
 - [CS 109 Data Science - Harvard University](http://cs109.github.io/2015/)
   - **University Courses**, **Machine Learning**
   - *Harvard University*
   - Learning from data in order to gain useful predictions and insights. This course introduces methods for five key facets of an investigation: data wrangling, cleaning, and sampling to get a suitable data set; data management to be able to access big data quickly and reliably; exploratory data analysis to generate hypotheses and intuition; prediction based on statistical methods such as regression and classification; and communication of results through visualization, stories, and interpretable summaries.
-
-- [CS 156 Learning from Data - Caltech](https://work.caltech.edu/telecourse.html)
-  - **University Courses**, **Machine Learning**
-  - *Caltech*
-  - This is an introductory course in machine learning (ML) that covers the basic theory, algorithms, and applications. ML is a key technology in Big Data, and in many financial, medical, commercial, and scientific applications. It enables computational systems to adaptively improve their performance with experience accumulated from the observed data. ML has become one of the hottest fields of study today, taken up by undergraduate and graduate students from 15 different majors at Caltech. This course balances theory and practice, and covers the mathematical as well as the heuristic aspects.  
 
 - [CS 189 Introduction To Machine Learning - UC Berkeley](http://www.eecs189.org/)
   - **University Courses**, **Machine Learning**
@@ -2464,7 +2481,11 @@
 - [DS-GA 1008 Deep Learning - New York University](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
   - **University Courses**, **Machine Learning**
   - *New York University*
-  - This increasingly popular course is taught through the Data Science Center at NYU. Originally introduced by [Yann Lecun](http://yann.lecun.com/), it is now led by [Zaid Harchaoui](http://www.harchaoui.eu/), although Prof. Lecun is rumored to still stop by from time to time. It covers the theory, technique, and tricks that are used to achieve very high accuracy for machine learning tasks in computer vision and natural language processing. The assignments are in Lua and hosted on Kaggle.
+  - This increasingly popular course is taught through the Data Science Center at NYU. Originally introduced by 
+  - [Yann Lecun](http://yann.lecun.com/)
+  - , it is now led by 
+  - [Zaid Harchaoui](http://www.harchaoui.eu/)
+  - , although Prof. Lecun is rumored to still stop by from time to time. It covers the theory, technique, and tricks that are used to achieve very high accuracy for machine learning tasks in computer vision and natural language processing. The assignments are in Lua and hosted on Kaggle.
 
 - [EECS E6893 & EECS E6895 Big Data Analytics & Advanced Big Data Analytics - Columbia University](http://www.ee.columbia.edu/~cylin/course/bigdata/)
   - **University Courses**, **Machine Learning**
@@ -2479,7 +2500,13 @@
 - [EE103 Introduction to Matrix Methods - Stanford University](http://stanford.edu/class/ee103/)
   - **University Courses**, **Machine Learning**
   - *Stanford University*
-  - The course covers the basics of matrices and vectors, solving linear equations, least-squares methods, and many applications. Itll cover the mathematics, but the focus will be on using matrix methods in applications such as tomography, image processing, data fitting, time series prediction, finance, and many others. EE103 is based on a book that [Stephen Boyd](http://stanford.edu/~boyd/) and [Lieven Vandenberghe](http://www.seas.ucla.edu/~vandenbe/) are currently writing. Students will use a new language called [Julia](http://julialang.org/) to do computations with matrices and vectors.
+  - The course covers the basics of matrices and vectors, solving linear equations, least-squares methods, and many applications. Itll cover the mathematics, but the focus will be on using matrix methods in applications such as tomography, image processing, data fitting, time series prediction, finance, and many others. EE103 is based on a book that 
+  - [Stephen Boyd](http://stanford.edu/~boyd/)
+  -  and 
+  - [Lieven Vandenberghe](http://www.seas.ucla.edu/~vandenbe/)
+  -  are currently writing. Students will use a new language called 
+  - [Julia](http://julialang.org/)
+  -  to do computations with matrices and vectors.
 
 - [Fast.ai Introduction to Machine Learning for Coders Analyzing Big Data with Twitter -  UC Berkeley](http://course.fast.ai/ml.html)
   - **University Courses**, **Machine Learning**
@@ -2489,7 +2516,9 @@
 - [Machine Learning: 2014-2015 Intro to Statistical Learning - University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
   - **University Courses**, **Machine Learning**
   - *University of Oxford*
-  - The course focusses on neural networks and uses the [Torch](https://github.com/torch/torch7/wiki/Cheatsheet) deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
+  - The course focusses on neural networks and uses the 
+  - [Torch](https://github.com/torch/torch7/wiki/Cheatsheet)
+  -  deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
 
 - [10-601 Machine Learning - Carnegie Mellon University](http://www.cs.cmu.edu/~ninamf/courses/601sp15/)
   - **University Courses**, **Machine Learning**
@@ -2504,7 +2533,11 @@
 - [11-785 Deep Learning - Carnegie Mellon University](http://deeplearning.cs.cmu.edu/)
   - **University Courses**, **Machine Learning**
   - *Carnegie Mellon University*
-  - The course presents the subject through a series of seminars and labs, which will explore it from its early beginnings, and work themselves to some of the state of the art. The seminars will cover the basics of deep learning and the underlying theory, as well as the breadth of application areas to which it has been applied, as well as the latest issues on learning from very large amounts of data. We will concentrate largely, although not entirely, on the connectionist architectures that are most commonly associated with it. *Lectures* and *Reading Notes* are available on the page.
+  - The course presents the subject through a series of seminars and labs, which will explore it from its early beginnings, and work themselves to some of the state of the art. The seminars will cover the basics of deep learning and the underlying theory, as well as the breadth of application areas to which it has been applied, as well as the latest issues on learning from very large amounts of data. We will concentrate largely, although not entirely, on the connectionist architectures that are most commonly associated with it. 
+  - *Lectures*
+  -  and 
+  - *Reading Notes*
+  -  are available on the page.
 
 - [CS246 Mining Massive Data Sets - Stanford University](http://web.stanford.edu/class/cs246/)
   - **University Courses**, **Machine Learning**
@@ -2526,18 +2559,18 @@
   - *University of Amsterdam*
   - This course is taught in the MSc program in Artificial Intelligence of the University of Amsterdam. In this course we study the theory of deep learning, namely of modern, multi-layered neural networks trained on big data. The course focuses particularly on computer vision and language modelling, which are perhaps two of the most recognizable and impressive applications of the deep learning theory.
 
-## Markdown
+### Markdown
 
 - [Learn Markdown](https://www.gitbook.com/book/gitbookio/markdown/details)
   - **Technical Tutorials**, **Markdown**
-  - *Sammy P.*, * Aaron O.*
+  - *Sammy P.*
   - A comprehensive guide to learning Markdown, authored by Sammy P. and Aaron O.
 
 - [Markdown compiler from scratch in Ruby](https://blog.beezwax.net/2017/07/07/writing-a-markdown-compiler/)
   - **Technical Tutorials**, **Markdown**, **Ruby**
   - A guide to writing a Markdown compiler from scratch in Ruby, covering the process and implementation details.
 
-## MongoDB
+### MongoDB
 
 - [Introduction to MongoDB](https://www.tutorialspoint.com/mongodb/)
   - **Technical Tutorials**, **MongoDB**, **NoSQL**
@@ -2554,7 +2587,7 @@
   - *Compiled from StackOverflow Documentation*
   - A comprehensive guide to MongoDB, covering key concepts, best practices, and expert advice for database management and development.
 
-## MySQL
+### MySQL
 
 - [MySQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA)
   - **Video Courses**, **MySQL**
@@ -2576,7 +2609,7 @@
   - *Aaron Francis*
   - MySQL for Developers by Aaron Francis is a comprehensive guide to mastering MySQL for application development. It covers essential topics such as database design, querying, optimization, and integration with programming languages like Python and Java.
 
-## Networking
+### Networking
 
 - [Beejs Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/)
   - **Technical Tutorials**, **Networking**, **Programming**
@@ -2621,7 +2654,7 @@
   - **Technical Tutorials**, **Networking**
   - A guide to building your own VPN and virtual switch.
 
-## Next.js
+### Next.js
 
 - [Next.js 13 Crash Course 2023: Learn App Directory, React Server Components & More](https://www.youtube.com/watch?v=Y6KDk5iyrYE)
   - **Technical Tutorials**, **Next.js**
@@ -2638,7 +2671,7 @@
   - *Kapehe*
   - Next.js for Beginners - Full Course by Kapehe
 
-## NoSQL
+### NoSQL
 
 - [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf)
   - **Technical Tutorials**, **NoSQL**
@@ -2658,7 +2691,7 @@
   - **Technical Tutorials**, **NoSQL**, **Database**
   - A guide to building a fast and persistent key-value store in Ruby, providing insights into database development and storage technologies.
 
-## Node.js
+### Node.js
 
 - [From Containers to Kubernetes with Node.js](https://www.digitalocean.com/community/books/from-containers-to-kubernetes-with-node-js-ebook)
   - **Technical Tutorials**, **Node.js**, **Kubernetes**
@@ -2667,7 +2700,7 @@
 
 - [How To Code in Node.js - eBook](https://www.digitalocean.com/community/books/how-to-code-in-node-js-ebook)
   - **Technical Tutorials**, **Node.js**
-  - *David Landup*, * Marcus Sanatan @ Stack Abuse*, * Digital Ocean*
+  - *David Landup*
   - How To Code in Node.js - eBook by David Landup, Marcus Sanatan @ Stack Abuse, Digital Ocean.
 
 - [Mastering Node](https://github.com/visionmedia/masteringnode)
@@ -2697,7 +2730,7 @@
 
 - [A Beginners Guide to Node.js](https://www.udemy.com/course/a-beginners-guide-to-nodejs)
   - **Video Courses**, **Node.js**
-  - *DSC VIT Powered by Google Developers*, * Md Hishaam Akhtar*
+  - *DSC VIT Powered by Google Developers*
   - A Beginners Guide to Node.js is an introductory course that covers the fundamentals of Node.js, designed for beginners in programming and web development. The course is presented by DSC VIT Powered by Google Developers and Md Hishaam Akhtar.
 
 - [Node.js Introductory Course for Absolute Beginners](https://www.udemy.com/course/nodejs-introductory-course-for-absolute-beginners)
@@ -2734,7 +2767,7 @@
   - **Technical Tutorials**, **Node.js**
   - A comprehensive guide to building a DNS server using Node.js, covering topics such as DNS protocols, server architecture, and network communication in a practical and hands-on manner.
 
-## Operating System
+### Operating System
 
 - [How to write a simple operating system in assembly language](https://mikeos.sourceforge.net/write-your-own-os.html)
   - **Technical Tutorials**, **Operating System**
@@ -2841,7 +2874,7 @@
   - *MIT*
   - MITs operating systems course focusing on the fundamentals of OS design including booting, memory management, environments, file systems, multitasking, and more. In a series of lab assignments, you will build JOS, an OS exokernel written in C.
 
-## PHP
+### PHP
 
 - [An Introduction to the PHP Programming Language](https://codeahoy.com/learn/php/toc/)
   - **Technical Tutorials**, **PHP**
@@ -2877,7 +2910,7 @@
   - **Technical Tutorials**, **PHP**, **Web Development**
   - Writing a webserver in pure PHP is a book that delves into the intricacies of web development using PHP, focusing on server-side programming and practical implementation of webserver functionality.
 
-## Pandas
+### Pandas
 
 - [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
   - **Technical Tutorials**, **Pandas**, **Python**
@@ -2886,10 +2919,10 @@
 
 - [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/docs)
   - **Technical Tutorials**, **Pandas**, **Python**
-  - *Wes McKinney*, * the Pandas Development Team*
+  - *Wes McKinney*
   - Powerful Python data analysis toolkit
 
-## Perl
+### Perl
 
 - [Extreme Perl](http://www.extremeperl.org/bk/home)
   - **Technical Tutorials**, **Perl**
@@ -2906,7 +2939,7 @@
   - *Compiled from StackOverflow Documentation*
   - Perl Notes for Professionals book compiled from StackOverflow Documentation.
 
-## PostgreSQL
+### PostgreSQL
 
 - [PostgreSQL Notes for Professionals](https://goalkicker.com/PostgreSQLBook/)
   - **Technical Tutorials**, **PostgreSQL**, **Database**
@@ -2918,7 +2951,7 @@
   - *Tutorials Point*
   - A comprehensive tutorial on PostgreSQL, covering database management, SQL queries, and advanced features for developers and data professionals.
 
-## Programming
+### Programming
 
 - [Foundations of Programming](https://openmymind.net/FoundationsOfProgramming.pdf)
   - **Technical Tutorials**, **Programming**
@@ -3080,7 +3113,11 @@
 - [CS 91 Introduction to Programming Languages - Swathmore College](https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html)
   - **University Courses**, **Programming**
   - *Swathmore College*
-  - Uses the [Pyret](https://www.pyret.org/) programming language & [PAPL](http://papl.cs.brown.edu/2014/) book to understand the fundamentals of programming languages.
+  - Uses the 
+  - [Pyret](https://www.pyret.org/)
+  -  programming language & 
+  - [PAPL](http://papl.cs.brown.edu/2014/)
+  -  book to understand the fundamentals of programming languages.
 
 - [Corsopl Principles of Programming Languages - Politecnico di Milano](https://pradella.faculty.polimi.it/PL.html)
   - **University Courses**, **Programming**
@@ -3095,7 +3132,17 @@
 - [CS 173 Programming Languages - Brown University](http://cs.brown.edu/courses/cs173/2014/)
   - **University Courses**, **Programming**
   - *Brown University*
-  - Course by Prof. Krishnamurthi (author of [HtDP](http://htdp.org/2003-09-26/Book/)) and numerous other [awesome](http://cs.brown.edu/courses/cs173/2012/book/) [books](http://papl.cs.brown.edu/2014/index.html) on programming languages. Uses a custom designed [Pyret](http://www.pyret.org/) programming language to teach the concepts. There was an [online class](http://cs.brown.edu/courses/cs173/2012/OnLine/) hosted in 2012, which includes all lecture videos for you to enjoy.
+  - Course by Prof. Krishnamurthi (author of 
+  - [HtDP](http://htdp.org/2003-09-26/Book/)
+  - ) and numerous other 
+  - [awesome](http://cs.brown.edu/courses/cs173/2012/book/)
+  -  
+  - [books](http://papl.cs.brown.edu/2014/index.html)
+  -  on programming languages. Uses a custom designed 
+  - [Pyret](http://www.pyret.org/)
+  -  programming language to teach the concepts. There was an 
+  - [online class](http://cs.brown.edu/courses/cs173/2012/OnLine/)
+  -  hosted in 2012, which includes all lecture videos for you to enjoy.
 
 - [CS 223 Purely Functional Data Structures In Elm - University of Chicago](https://www.classes.cs.uchicago.edu/archive/2016/winter/22300-1/)
   - **University Courses**, **Programming**
@@ -3125,7 +3172,11 @@
 - [CS 5470 Compilers - University of Utah](http://matt.might.net/teaching/compilers/spring-2015/)
   - **University Courses**, **Programming**
   - *University of Utah*
-  - If youre a fan of Prof Matts writing on his [fantastic blog](http://matt.might.net/articles/) you ought to give this a shot. The course covers the design and implementation of compilers, and it explores related topics such as interpreters, virtual machines and runtime systems. Aside from the Profs witty take on [cheating](http://matt.might.net/teaching/compilers/spring-2015/#collaboration) the page has tons of interesting links on programming languages, parsing and compilers.
+  - If youre a fan of Prof Matts writing on his 
+  - [fantastic blog](http://matt.might.net/articles/)
+  -  you ought to give this a shot. The course covers the design and implementation of compilers, and it explores related topics such as interpreters, virtual machines and runtime systems. Aside from the Profs witty take on 
+  - [cheating](http://matt.might.net/teaching/compilers/spring-2015/#collaboration)
+  -  the page has tons of interesting links on programming languages, parsing and compilers.
 
 - [CS 6118 Types and Semantics - Cornell University](http://www.cs.cornell.edu/courses/CS6118/2012fa/)
   - **University Courses**, **Programming**
@@ -3135,7 +3186,9 @@
 - [CSC 253 CPython internals: A ten-hour codewalk through the Python interpreter source code - University of Rochester](http://pgbovine.net/cpython-internals.htm)
   - **University Courses**, **Programming**
   - *University of Rochester*
-  - Nine lectures walking through the internals of CPython, the canonical Python interpreter implemented in C. They were from the *Dynamic Languages and Software Development* course taught in Fall 2014 at the University of Rochester.
+  - Nine lectures walking through the internals of CPython, the canonical Python interpreter implemented in C. They were from the 
+  - *Dynamic Languages and Software Development*
+  -  course taught in Fall 2014 at the University of Rochester.
 
 - [CSE 341 Programming Languages - University of Washington](http://courses.cs.washington.edu/courses/cse341/16sp/)
   - **University Courses**, **Programming**
@@ -3245,12 +3298,16 @@
 - [CS 1410-2 Computer Science I and II for Hackers - University of Utah](http://www.eng.utah.edu/~cs1410-20/)
   - **University Courses**, **Programming**
   - *University of Utah*
-  - An intro course in the spirit of SICP designed by [Professor Matthew Flatt](http://www.cs.utah.edu/~mflatt/) (one of the lead designers of Racket and author of HtDP). Mostly Racket and C, and a bit of Java, with explanations on how high level functional programming concepts relate to the design of OOP programs. Do this one before SICP if SICP is a bit too much...
+  - An intro course in the spirit of SICP designed by 
+  - [Professor Matthew Flatt](http://www.cs.utah.edu/~mflatt/)
+  -  (one of the lead designers of Racket and author of HtDP). Mostly Racket and C, and a bit of Java, with explanations on how high level functional programming concepts relate to the design of OOP programs. Do this one before SICP if SICP is a bit too much...
 
 - [CS 2110 Object-Oriented Programming and Data Structures - Cornell University](http://www.cs.cornell.edu/courses/CS2110/2014fa/index.html)
   - **University Courses**, **Programming**
   - *Cornell University*
-  - CS 2110 is an intermediate-level programming course and an introduction to computer science. Topics include program design and development, debugging and testing, object-oriented programming, proofs of correctness, complexity analysis, recursion, commonly used data structures, graph algorithms, and abstract data types. Java is the principal programming language. The course syllabus can easily be extracted by looking at the link to [lectures](http://www.cs.cornell.edu/courses/CS2110/2014fa/lecturenotes.html).
+  - CS 2110 is an intermediate-level programming course and an introduction to computer science. Topics include program design and development, debugging and testing, object-oriented programming, proofs of correctness, complexity analysis, recursion, commonly used data structures, graph algorithms, and abstract data types. Java is the principal programming language. The course syllabus can easily be extracted by looking at the link to 
+  - [lectures](http://www.cs.cornell.edu/courses/CS2110/2014fa/lecturenotes.html)
+  - .
 
 - [CS 4302 Web Information Systems - Cornell University](http://courses2.cit.cornell.edu/info4302_2012fa/)
   - **University Courses**, **Programming**
@@ -3260,12 +3317,16 @@
 - [CSCE 2004 Programming Foundations I - University of Oxford](http://www.csce.uark.edu/~sgauch/2004/S14/index.html)
   - **University Courses**, **Programming**
   - *University of Oxford*
-  - The course focusses on neural networks and uses the [Torch](https://github.com/torch/torch7/wiki/Cheatsheet) deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
+  - The course focusses on neural networks and uses the 
+  - [Torch](https://github.com/torch/torch7/wiki/Cheatsheet)
+  -  deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
 
 - [CS-for-all CS for All - Harvey Mudd College](http://www.cs.hmc.edu/csforall/)
   - **University Courses**, **Programming**
   - *Harvey Mudd College*
-  - This book (and course) takes a unique approach to __ntro CS._ In a nutshell, our objective is to provide an introduction to computer science as an intellectually rich and vibrant field rather than focusing exclusively on computer programming. While programming is certainly an important and pervasive element of our approach, we emphasize concepts and problem-solving over syntax and programming language features.
+  - This book (and course) takes a unique approach to _
+  - _ntro CS._
+  -  In a nutshell, our objective is to provide an introduction to computer science as an intellectually rich and vibrant field rather than focusing exclusively on computer programming. While programming is certainly an important and pervasive element of our approach, we emphasize concepts and problem-solving over syntax and programming language features.
 
 - [6.001 Structure and Interpretation of Computer Programs - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm)
   - **University Courses**, **Programming**
@@ -3277,7 +3338,7 @@
   - *MIT*
   - This course introduces fundamental principles and techniques of software development. Students learn how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; state machines; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions.
 
-## Python
+### Python
 
 - [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
   - **Technical Tutorials**, **Python**
@@ -3306,7 +3367,7 @@
 
 - [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html)
   - **Technical Tutorials**, **Python**
-  - *Harry J.W. Percival*, * Bob Gregory*
+  - *Harry J.W. Percival*
   - Architecture Patterns with Python is a book that explores software architecture patterns and design principles using Python. It covers topics such as software design, patterns, and best practices, making it a valuable resource for developers and architects interested in Python-based architecture.
 
 - [Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners](https://automatetheboringstuff.com/2e/chapter0/)
@@ -3366,12 +3427,12 @@
 
 - [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
   - **Technical Tutorials**, **Python**
-  - *Brad Miller*, * David Ranum*, * Jeffrey Elkner*, * Peter Wentworth*, * Allen B. Downey*, * Chris Meyers*, * Dario Mitchell*
+  - *Brad Miller*
   - How to Think Like a Computer Scientist: Learning with Python, Interactive Edition is a comprehensive guide to computer science and Python programming, offering interactive learning experiences for beginners and advanced learners alike. The book covers fundamental concepts of computer science and provides practical insights into programming with Python.
 
 - [How to Think Like a Computer Scientist: Learning with Python 2nd Edition](https://openbookproject.net/thinkcs/python/english2e/)
   - **Technical Tutorials**, **Python**
-  - *Jeffrey Elkner*, * Allen B. Downey*, * Chris Meyers*
+  - *Jeffrey Elkner*
   - How to Think Like a Computer Scientist: Learning with Python 2nd Edition is a comprehensive guide that introduces readers to the fundamentals of computer science and programming using Python. Written by Jeffrey Elkner, Allen B. Downey, and Chris Meyers, the book covers Python programming, computer science principles, and problem-solving techniques.
 
 - [Intermediate Python](https://book.pythontips.com/en/latest/)
@@ -3446,7 +3507,7 @@
 
 - [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds3/index.html)
   - **Technical Tutorials**, **Python**, **Algorithm**
-  - *Bradley N. Miller*, * David L. Ranum*
+  - *Bradley N. Miller*
   - Problem Solving with Algorithms and Data Structures using Python by Bradley N. Miller and David L. Ranum is a comprehensive guide to Python programming, algorithms, and data structures. It covers fundamental concepts in computer science and provides practical examples and exercises for problem-solving.
 
 - [Python 101](https://python101.pythonlibrary.org)
@@ -3481,7 +3542,7 @@
 
 - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
   - **Technical Tutorials**, **Python**
-  - *Qingkai Kong*, * Timmy Siauw*, * Alexandre Bayen*
+  - *Qingkai Kong*
   - Python Programming And Numerical Methods: A Guide For Engineers And Scientists by Qingkai Kong, Timmy Siauw, Alexandre Bayen.
 
 - [Python Programming Exercises, Gently Explained](https://inventwithpython.com/PythonProgrammingExercisesGentlyExplained.pdf)
@@ -3536,7 +3597,7 @@
 
 - [MITs Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
   - **Video Courses**, **Python**
-  - *Ana Bell*, * Eric Grimson*, * John Guttag*
+  - *Ana Bell*
   - MITs Introduction to Computer Science and Programming in Python by Ana Bell, Eric Grimson, John Guttag.
 
 - [Python Machine Learning Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr)
@@ -3566,7 +3627,7 @@
 
 - [Python Data Analysis](https://www.coursera.org/learn/python-analysis)
   - **Video Courses**, **Python**
-  - *Scott Rixner*, * Joe Warren*
+  - *Scott Rixner*
   - Python Data Analysis by Scott Rixner and Joe Warren is a comprehensive guide to analyzing data using Python programming language. It covers topics related to data analysis, Python programming, and practical applications of Python in data science.
 
 - [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai)
@@ -3696,7 +3757,7 @@
   - *Cornell University*
   - Introduction to the Python programming language. Covers the basic programming constructs of Python, including assignment, conditionals, iteration, functions, object-oriented design, arrays, and vectorized computation. Assumes programming knowledge in a language like Java, Matlab, C, C++, or Fortran.
 
-## R
+### R
 
 - [Probability and Statistics with Examples using R](https://www.isibang.ac.in/~athreya/psweur/index.html#usage)
   - **Technical Tutorials**, **R**
@@ -3733,7 +3794,7 @@
   - *Barton Poulson*
   - R Programming Tutorial by Barton Poulson
 
-## React
+### React
 
 - [30 days of React: An introduction to React in 30 bite-size morsels](https://www.newline.co/fullstack-react/assets/media/sGEMe/MNzue/30-days-of-react-ebook-fullstackio.pdf)
   - **Technical Tutorials**, **React**
@@ -3762,7 +3823,7 @@
 
 - [The Complete Redux Book](https://leanpub.com/redux-book/read)
   - **Technical Tutorials**, **React**
-  - *Boris Dinkevich*, * Ilya Gelman*
+  - *Boris Dinkevich*
   - The Complete Redux Book by Boris Dinkevich and Ilya Gelman provides comprehensive coverage of Redux, state management, and its integration with React. The book offers practical examples, best practices, and in-depth insights into building robust applications with Redux.
 
 - [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
@@ -3820,7 +3881,7 @@
   - **Technical Tutorials**, **React**
   - Developing Games with React, Redux, and SVG
 
-## Redis
+### Redis
 
 - [How To Manage a Redis Database](https://www.digitalocean.com/community/books/how-to-manage-a-redis-database-ebook)
   - **Technical Tutorials**, **Redis**
@@ -3848,7 +3909,7 @@
   - **Technical Tutorials**, **Redis**
   - A book on writing a Redis Protocol Parser
 
-## Regular Expressions
+### Regular Expressions
 
 - [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
   - **Technical Tutorials**, **Regular Expressions**
@@ -3882,7 +3943,7 @@
   - **Technical Tutorials**, **Regular Expressions**
   - A comprehensive guide to building custom regular expression engines, covering backtracking, NFA, and DFA approaches.
 
-## Ruby
+### Ruby
 
 - [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools)
   - **Technical Tutorials**, **Ruby**
@@ -3941,7 +4002,7 @@
   - **Technical Tutorials**, **Ruby**
   - A guide to building a simple websockets server from scratch in Ruby, providing a comprehensive overview of websockets, server development, and Ruby programming.
 
-## Rust
+### Rust
 
 - [Easy Rust](https://dhghomon.github.io/easy_rust/)
   - **Technical Tutorials**, **Rust**
@@ -3955,7 +4016,7 @@
 
 - [The Rust Programming Language](http://doc.rust-lang.org/book)
   - **Technical Tutorials**, **Rust**
-  - *Steve Klabnik*, * Carol Nichols*, * et al.*
+  - *Steve Klabnik*
   - The Rust Programming Language is a comprehensive guide to learning and using the Rust programming language. It covers topics such as memory safety, concurrency, and performance, making it a valuable resource for software developers and programming enthusiasts.
 
 - [Command line apps in Rust](https://rust-cli.github.io/book/index.html)
@@ -3995,14 +4056,14 @@
   - *UPenn*
   - This course covers what makes Rust so unique and applies it to practical systems programming problems. Topics covered include traits and generics; memory safety (move semantics, borrowing, and lifetimes); Rust__ rich macro system; closures; and concurrency.
 
-## Sass
+### Sass
 
 - [Learning sass](https://riptutorial.com/Download/sass.pdf)
   - **Technical Tutorials**, **Sass**
   - *Compiled from Stack Overflow documentation*
   - A comprehensive guide to learning Sass for web development, compiled from Stack Overflow documentation.
 
-## Scala
+### Scala
 
 - [Compiling Scala for the Java Virtual Machine](https://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf)
   - **Technical Tutorials**, **Scala**
@@ -4011,12 +4072,12 @@
 
 - [Creative Scala](http://underscore.io/books/creative-scala/)
   - **Technical Tutorials**, **Scala**
-  - *Noel Welsh*, * Dave Gurnell*
+  - *Noel Welsh*
   - Creative Scala is a book that explores Scala programming language through the lens of creative coding and functional programming. It provides an innovative approach to learning Scala for creative applications.
 
 - [Essential Scala](http://underscore.io/books/essential-scala/)
   - **Technical Tutorials**, **Scala**
-  - *Noel Welsh*, * Dave Gurnell*
+  - *Noel Welsh*
   - Essential Scala is a comprehensive guide to Scala programming, covering essential concepts and practical applications for beginners and experienced developers alike. It explores functional programming, Scala syntax, and best practices for building scalable and maintainable software. The book is authored by Noel Welsh and Dave Gurnell, leading experts in the Scala community.
 
 - [Functional Programming, Simplified (Scala edition)](https://alvinalexander.com/photos/functional-programming-simplied-free-pdf-preview)
@@ -4044,7 +4105,7 @@
   - *Tutorials Point*
   - Scala Tutorial by Tutorials Point
 
-## Security
+### Security
 
 - [Cryptography](https://en.wikibooks.org/wiki/Cryptography)
   - **Technical Tutorials**, **Security**
@@ -4073,7 +4134,7 @@
 
 - [Ethical Hacking - SQL Injection Attack](https://www.udemy.com/course/sql-injection-ethical-hacking)
   - **Video Courses**, **Security**, **Security**
-  - *Sunil K. Gupta*, * Knowledge Aacademy*
+  - *Sunil K. Gupta*
   - Ethical Hacking - SQL Injection Attack is a course that covers the fundamentals of SQL injection attacks and ethical hacking. It provides insights into cybersecurity, database security, and the ethical considerations of hacking practices.
 
 - [Ethical Hacking from Scratch - The Complete Course](https://www.udemy.com/course/ethical-hacking-by-digiflax)
@@ -4086,7 +4147,7 @@
   - *UC Berkeley*
   - This course discusses the complexity-theory foundations of modern cryptography, and looks at recent results in the field such as Fully Homomorphic Encryption, Indistinguishability Obfuscation, MPC and so on.
 
-## Shell scripting
+### Shell scripting
 
 - [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)
   - **Technical Tutorials**, **Shell scripting**
@@ -4134,21 +4195,20 @@
   - **Technical Tutorials**, **Shell scripting**
   - A guide to building your own shell using Rust programming language.
 
-## Solr
+### Solr
 
 - [Solr for newbies workshop (2019)](https://github.com/hectorcorrea/solr-for-newbies)
   - **Technical Tutorials**, **Solr**
   - *Hector Correa*
   - A workshop on Solr for beginners, authored by Hector Correa.
 
-## Spark
+### Spark
 
 - [Learn Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002)
   - **Video Courses**, **Spark**, **Big Data**
-  - * David Drummond*, * Judit Lantos*
   - Learn Spark by David Drummond and Judit Lantos
 
-## Spring
+### Spring
 
 - [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/free-ebooks/building-applications-spring-5-and-vuejs-2)
   - **Technical Tutorials**, **Spring**, **Vue.js**
@@ -4167,7 +4227,7 @@
 
 - [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/html/)
   - **Technical Tutorials**, **Spring**
-  - *Phillip Webb*, * et al.*
+  - *Phillip Webb*
   - The Spring Boot Reference Guide is a comprehensive resource for Java developers looking to build microservices and web applications using the Spring Boot framework. It covers topics such as dependency management, auto-configuration, and production-ready features, making it an essential guide for developing modern, scalable, and efficient applications.
 
 - [Spring Boot Tutorials](https://www.youtube.com/playlist?list=PLhfxuQVMs-nx3YQa3XJ9-4g_EoK0J8WhU)
@@ -4180,7 +4240,7 @@
   - *Telusko*
   - A comprehensive tutorial series on Spring Boot, covering topics such as RESTful APIs, database integration, and microservices development. Taught by Telusko, this full course provides in-depth knowledge and practical examples for learning Spring Boot.
 
-## Systems
+### Systems
 
 - [CS 61C Great Ideas in Computer Architecture (Machine Structures) - UC Berkeley](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/)
   - **University Courses**, **Systems**
@@ -4202,11 +4262,6 @@
   - *UC Berkeley*
   - This course is an introduction to the Internet architecture. We will focus on the concepts and fundamental design principles that have contributed to the Internets scalability and robustness and survey the various protocols and algorithms used within this architecture. Topics include layering, addressing, intradomain routing, interdomain routing, reliable delivery, congestion control, and the core protocols (e.g., TCP, UDP, IP, DNS, and HTTP) and network technologies (e.g., Ethernet, wireless).
 
-- [CS 179 GPU Programming - Caltech](http://courses.cms.caltech.edu/cs179/)
-  - **University Courses**, **Systems**
-  - *Caltech*
-  - This course will cover programming techniques for the GPU. The course will introduce NVIDIAs parallel computing language, CUDA. Beyond covering the CUDA programming model and syntax, the course will also discuss GPU architecture, high performance computing on GPUs, parallel algorithms, CUDA libraries, and applications of GPU computing. 
-
 - [CS 241 Systems Programming (Spring 2016) - Univ of Illinois, Urbana-Champaign](https://courses.engr.illinois.edu/cs241/sp2016/index.html)
   - **University Courses**, **Systems**
   - *Univ of Illinois, Urbana-Champaign*
@@ -4225,12 +4280,15 @@
 - [CS 5412 Cloud Computing - Cornell University](http://www.cs.cornell.edu/Courses/CS5412/2014sp/)
   - **University Courses**, **Systems**
   - *Cornell University*
-  - Taught by one of the stalwarts of this field, Prof Ken Birman, this course has a fantastic set of slides that one can go through. The Profs [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154) is also a gem and recommended as a must read in Googles tutorial on [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
+  - Taught by one of the stalwarts of this field, Prof Ken Birman, this course has a fantastic set of slides that one can go through. The Profs 
+  - [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154)
+  -  is also a gem and recommended as a must read in Googles tutorial on 
+  - [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 
 - [CSCI 360 Computer Architecture 3 - CUNY Hunter College](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php)
   - **University Courses**, **Systems**
   - *CUNY Hunter College*
-  -  A course that covers cache design, buses, memory hierarchies, processor-peripheral interfaces, and multiprocessors, including GPUs.
+  - A course that covers cache design, buses, memory hierarchies, processor-peripheral interfaces, and multiprocessors, including GPUs.
 
 - [CSCI 493.75 Parallel Computing - CUNY Hunter College](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php)
   - **University Courses**, **Systems**
@@ -4280,7 +4338,7 @@
 - [15-410 Operating System Design and Implementation - Carnegie-Mellon University](https://www.cs.cmu.edu/~410/)
   - **University Courses**, **Systems**
   - *Carnegie-Mellon University*
-  -  This awesome course covers some fundamental topics of operating system, such as process model, virtual memory concurrency, threads, locking, interrupts, preemptibility, race conditions. It also covers introductory understanding of typical OS topics (file systems, transactions, scheduling, security concepts and technologies, memory consistency)Parallel programming models / frameworks.
+  - This awesome course covers some fundamental topics of operating system, such as process model, virtual memory concurrency, threads, locking, interrupts, preemptibility, race conditions. It also covers introductory understanding of typical OS topics (file systems, transactions, scheduling, security concepts and technologies, memory consistency)Parallel programming models / frameworks.
 
 - [15-418 Parallel Computer Architecture and Programming - Carnegie-Mellon University](http://15418.courses.cs.cmu.edu/spring2015/)
   - **University Courses**, **Systems**
@@ -4297,11 +4355,6 @@
   - *Carnegie-Mellon University*
   - This course is a comprehensive study of the internals of modern database management systems. It will cover the core concepts and fundamentals of the components that are used in both high-performance transaction processing systems (OLTP) and large-scale analytical systems (OLAP). The class will stress both efficiency and correctness of the implementation of these ideas. All class projects will be in the context of a real in-memory, multi-core database system. The course is appropriate for graduate students in software systems and for advanced undergraduates with strong systems programming skills.
 
-- [15-445/645 Database Systems - Carnegie-Mellon University](http://15445.courses.cs.cmu.edu/fall2017/)
-  - **University Courses**, **Systems**
-  - *Carnegie-Mellon University*
-  - This course covers fundamental topics of DBMS, compared to CMU 15-721. 
-
 - [15-749 Engineering Distributed Systems - Carnegie-Mellon University](http://www.andrew.cmu.edu/course/15-749/)
   - **University Courses**, **Systems**
   - *Carnegie-Mellon University*
@@ -4310,9 +4363,10 @@
 - [18-447 Introduction to Computer Architecture - CMU](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=start)
   - **University Courses**, **Systems**
   - *Carnegie-Mellon University*
-  - Very comprehensive material on Computer Architecture - definitely more than just "introduction". Online material is very user-friendly, even the recitation videos available online. This is the Spring'15 version by Prof. [Onur Mutlu ](http://users.ece.cmu.edu/~omutlu/)
+  - Very comprehensive material on Computer Architecture - definitely more than just "introduction". Online material is very user-friendly, even the recitation videos available online. This is the Spring'15 version by Prof. 
+  - [Onur Mutlu ](http://users.ece.cmu.edu/~omutlu/)
 
-## Tech
+### Tech
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
   - **University Courses**, **Tech**
@@ -4324,7 +4378,7 @@
   - *Harvard*
   - This is CS50, Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming, for concentrators and non-concentrators alike, with or without prior programming experience. (Two thirds of CS50 students have never taken CS before.) This course teaches you how to solve problems, both with and without code, with an emphasis on correctness, design, and style. Topics include computational thinking, abstraction, algorithms, data structures, and computer science more generally.
 
-## TensorFlow
+### TensorFlow
 
 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
   - **Video Courses**, **TensorFlow**, **Artificial Intelligence**
@@ -4335,7 +4389,7 @@
   - **Technical Tutorials**, **TensorFlow**
   - Building a simple Generative Adversarial Network (GAN) using Tensorflow
 
-## TypeScript
+### TypeScript
 
 - [TypeScript in 50 Lessons](https://www.smashingmagazine.com/provide/eBooks/typescript-in-50-lessons.pdf)
   - **Technical Tutorials**, **TypeScript**
@@ -4359,10 +4413,10 @@
 
 - [TypeScript Fast Crash Course](https://www.udemy.com/typescript-fast-crash-course/)
   - **Video Courses**, **TypeScript**
-  - *Edwin Diaz*, * Coding Faculty Solutions*
+  - *Edwin Diaz*
   - A fast crash course in TypeScript covering the fundamentals of the language, suitable for beginners and experienced developers alike. Written by Edwin Diaz and Coding Faculty Solutions.
 
-## Unix
+### Unix
 
 - [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/)
   - **Technical Tutorials**, **Unix**, **Programming**
@@ -4391,7 +4445,7 @@
 
 - [Unix Programming Tools](http://cslibrary.stanford.edu/107/UnixProgrammingTools.pdf)
   - **Technical Tutorials**, **Unix**
-  - *Parlante*, * Zelenski*
+  - *Parlante*
   - A comprehensive guide to Unix programming tools, authored by Parlante and Zelenski.
 
 - [CS 2043 Unix Tools & Scripting - Cornell University](http://www.cs.cornell.edu/courses/CS2043/2014sp/)
@@ -4404,7 +4458,7 @@
   - *CUNY Hunter College*
   - A course that is mostly about writing programs against the UNIX API, covering all of the basic parts of the kernel interface and libraries, including files, processes, terminal control, signals, and threading.
 
-## Vim
+### Vim
 
 - [A Byte of Vim](https://www.swaroopch.com/notes/vim/)
   - **Technical Tutorials**, **Vim**
@@ -4431,7 +4485,7 @@
   - *Run Paint Run Run*, *Run Paint Press*
   - Vim Recipes is a comprehensive guide to using the Vim text editor, containing tips, techniques, and solutions for developers and programmers. The book covers various aspects of Vim usage, customization, and workflow optimization.
 
-## Vue.js
+### Vue.js
 
 - [30 Days Of Vue](https://www.newline.co/30-days-of-vue)
   - **Technical Tutorials**, **Vue.js**
@@ -4458,7 +4512,7 @@
   - *Vishwas Gopinath*
   - Vue JS 3 Tutorial for Beginners by Vishwas Gopinath
 
-## Web Development
+### Web Development
 
 - [Practical Series: A website template](https://practicalseries.com/1001-webdevelopment/)
   - **Technical Tutorials**, **Web Development**
@@ -4497,7 +4551,7 @@
 
 - [Programming Foundations with Javascript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web)
   - **Video Courses**, **Web Development**
-  - *Owen Astrachan*, * Robert Duvall*, * Andrew D. Hilton*, * Susan H. Rodger*
+  - *Owen Astrachan*
   - Programming Foundations with Javascript, HTML and CSS is a comprehensive guide to web development using JavaScript, HTML, and CSS. The book covers programming fundamentals and practical web development techniques, making it an essential resource for beginners and experienced developers alike.
 
 - [Foundations of Front End Web Development](https://www.udemy.com/course/foundations-of-front-end-development/)
@@ -4512,7 +4566,7 @@
 
 - [Introduction to Professional Web Development in JavaScript](https://education.launchcode.org/intro-to-professional-web-dev/)
   - **Video Courses**, **Web Development**, **JavaScript**
-  - *Chris Bay*, * Jim Flores*, * Blake Mills*, * Sally Steuterman*, * Paul Matthews*, * Carly Langlois*
+  - *Chris Bay*
   - Introduction to Professional Web Development in JavaScript by Chris Bay, Jim Flores, Blake Mills, Sally Steuterman, Paul Matthews, Carly Langlois.
 
 - [Web Basics](https://open.cs.uwaterloo.ca/web-basics/)
@@ -4549,17 +4603,16 @@
   - **Technical Tutorials**, **Web Development**
   - Web Application from Scratch is a comprehensive guide for building web applications from the ground up. It covers topics such as frontend development, backend development, and web architecture.
 
-## WebAssemnly
+### WebAssemnly
 
 - [WebAssembly friendly programming with C/C++](https://github.com/3dgen/cppwasm-book/tree/master/en)
   - **Technical Tutorials**, **WebAssemnly**, **C++**
-  - *Ending*, * Chai Shushan*, * Yushih*
+  - *Ending*
   - WebAssembly friendly programming with C/C++ by Ending, Chai Shushan, and Yushih.
 
-## npm
+### npm
 
 - [npm - Mastering the Basics](https://www.udemy.com/course/npm-mastering-the-basics/)
   - **Video Courses**, **npm**, **Web Development**
   - *Vishwas Gopinath*
   - Master the basics of npm and web development with this course by Vishwas Gopinath.
-
