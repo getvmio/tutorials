@@ -1,3 +1,7 @@
+import { parseArgs } from "@std/cli/parse-args";
+
+const parsedArgs = parseArgs(Deno.args);
+
 const resp = await fetch(Deno.env.get("DUMP_URL")!, {});
 if (!resp.ok) {
   throw new Error(
@@ -7,7 +11,7 @@ if (!resp.ok) {
 
 const { paths } = await resp.json();
 
-const filename = "temp.md";
+const filename = parsedArgs.file || "temp.md";
 Deno.writeTextFileSync(filename, "");
 
 type Path = {

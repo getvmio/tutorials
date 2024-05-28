@@ -1,6 +1,9 @@
+import { parseArgs } from "@std/cli/parse-args";
 import { parseTutorials } from "./parse-tutorials.ts";
 
-const tutorials = await parseTutorials("./README.md");
+const parsedArgs = parseArgs(Deno.args);
+
+const tutorials = await parseTutorials(parsedArgs.file);
 tutorials.forEach((t) => console.log(t));
 
 const resp = await fetch(Deno.env.get('UPLOAD_URL')!, {
