@@ -9,10 +9,6 @@ jobs:
   create_pr:
     runs-on: ubuntu-latest
     if: contains(github.event.issue.labels.*.name, 'new tutorial')
-    env:
-      API_SECRET: ${{ secrets.API_SECRET }}
-      DUMP_URL: ${{ vars.DUMP_URL }}
-      UPLOAD_URL: ${{ vars.UPLOAD_URL }}
     steps:
       - uses: actions/checkout@v4
 
@@ -23,6 +19,7 @@ jobs:
       - name: Make Changes
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
+          TEMPLATE_BASE_URL: ${{ vars.TEMPLATE_BASE_URL }}
         run: |
           deno task insert --file ./README.md
 
