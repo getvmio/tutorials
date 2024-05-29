@@ -2,12 +2,13 @@ name: Create New Tutorial Request
 
 on:
   issues:
-    types: [opened, edited, deleted]
+    types: [opened, edited]
   workflow_dispatch:
 
 jobs:
-  upload:
+  create_pr:
     runs-on: ubuntu-latest
+    if: contains(github.event.issue.labels.*.name, 'new tutorial')
     env:
       API_SECRET: ${{ secrets.API_SECRET }}
       DUMP_URL: ${{ vars.DUMP_URL }}
@@ -19,7 +20,29 @@ jobs:
         with:
           deno-version: v1.x
 
-      - name: Upload
-        if: ${{ github.event.action != 'deleted' }}
+      - name: Make Changes
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
         run: |
-          deno task insert --file ./README.md --body '${{ github.event.issue.body }}'
+          deno task insert --file ./README.md
+
+      - name: Create commits
+        run: |
+          git config --global user.name "GetVM Bot"
+          git config --global user.email "165758702+getvm-deploy[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Create new tutorial for #${{ github.event.issue.number }}"
+
+      - name: Create PR
+        uses: peter-evans/create-pull-request@v6
+        with:
+          author: ${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>
+          branch: new-tutorial/#${{ github.event.issue.number }}
+          delete-branch: true
+          title: ${{ github.event.issue.title }}
+          body: |
+            Update report
+            - Auto-generated for #${{ github.event.issue.number }}
+          labels: |
+            new tutorial
+          assignees: huhuhang

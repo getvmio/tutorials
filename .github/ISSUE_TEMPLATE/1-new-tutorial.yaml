@@ -1,9 +1,9 @@
 name: New Tutorial
 description: File a new tutorial request.
 title: "[New Tutorial]: "
-#labels: ["bug", "triage"]
-#assignees:
-#  - huhuhang
+labels: ["new-tutorial"]
+assignees:
+  - huhuhang
 body:
   - type: markdown
     attributes:
