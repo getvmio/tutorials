@@ -1219,6 +1219,11 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Technical Tutorials**, **Git**, **Python**
   - A guide to building custom Git plugins using Python, providing step-by-step instructions and examples for extending Git functionality.
 
+- [Good first issue](https://goodfirstissue.dev)
+  - **Technical Tutorials**, **Git**, **Github**, *DeepSource*
+  - Good First Issue curates easy pickings from popular open-source projects, and helps you make your first contribution to open-source.
+  - [Practice on GetVM](undefined/vnc-ubuntu:2204)
+
 ### Go
 
 - [Essentials of Go Programming](https://essentials-of-go-programming.readthedocs.io)
