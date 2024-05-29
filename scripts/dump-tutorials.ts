@@ -70,7 +70,7 @@ export function dumpTutorials(output: string, tutorials: Tutorial[]) {
         file.append(`  - ${[tags, authors].filter((v) => v).join(", ")}`);
         // description
         t.description.split("\n\n").forEach((line: string) => {
-          file.append(`  - ${line}`);
+          file.append(`  - ${line.replaceAll("\n", " ")}`);
         });
         // recommend template
         if (t.recommend_template) {
