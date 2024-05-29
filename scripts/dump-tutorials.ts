@@ -21,6 +21,10 @@ type Path = {
   authors: string[];
   category: string;
   tags: string[];
+  recommend_template?: {
+    alias: string;
+    name: string;
+  };
 };
 
 const pathMap = new Map<string, Path[]>();
@@ -35,17 +39,26 @@ Array.from(pathMap.keys())
     appendContent(`### ${tag}${"\n"}`);
     const paths = pathMap.get(tag);
     paths?.forEach((path: Path) => {
+      // url
       appendContent(`- [${path.name}](${path.url})`);
-      const tags = [path.category, ...path.tags];
-      appendContent(`  - ${tags.map((t: string) => `**${t}**`).join(", ")}`);
-      if (path.authors.length) {
-        appendContent(
-          `  - ${path.authors.map((t: string) => `*${t}*`).join(", ")}`
-        );
-      }
+      // tags & authors
+      const tags = [path.category, ...path.tags]
+        .map((t: string) => `**${t}**`)
+        .join(", ");
+      const authors = path.authors.map((t: string) => `*${t}*`).join(", ");
+      appendContent(`  - ${[tags, authors].filter((v) => v).join(", ")}`);
+      // description
       path.description.split("\n\n").forEach((line: string) => {
         appendContent(`  - ${line}`);
       });
+      // recommend template
+      if (path.recommend_template) {
+        appendContent(
+          `  - [Practice on GetVM](${Deno.env.get("TEMPLATE_BASE_URL")}/${
+            path.recommend_template.alias
+          })`
+        );
+      }
       appendContent("");
     });
   });

@@ -7,6 +7,7 @@ interface Tutorial {
   authors: string[];
   category: string;
   tags: string[];
+  recommend_template?: string;
 }
 
 const categories = [
@@ -31,6 +32,14 @@ function parseItemTags(tokens: Tokens.Text["tokens"]) {
     .filter((v) => v);
 }
 
+function parseRecommendTemplate(tokens: Tokens.Text["tokens"]) {
+  return tokens
+    ?.filter(
+      (t) => t.type === "link" && (t as Tokens.Link).raw === "Practice on GetVM"
+    )
+    .map((t) => (t as Tokens.Link).href.split("/").pop())[0];
+}
+
 function parseItem(item: TutorialItem) {
   const link = item.tokens[0].tokens?.[0] as Tokens.Link;
   const tutorial: Tutorial = {
@@ -52,6 +61,9 @@ function parseItem(item: TutorialItem) {
       } else if (text.tokens?.[0].type === "em") {
         // authors
         tutorial.authors.push(...(parseItemAuthors(text.tokens) ?? []));
+      } else if (text.tokens?.[0].type === "link") {
+        // recommend template
+        tutorial.recommend_template = parseRecommendTemplate(text.tokens);
       } else if (text.tokens?.[0].type === "text") {
         // description
         if (tutorial.description) {
