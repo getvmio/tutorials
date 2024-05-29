@@ -1,14 +1,5 @@
 import { marked, Tokens } from "marked";
-
-interface Tutorial {
-  title: string;
-  description: string;
-  url: string;
-  authors: string[];
-  category: string;
-  tags: string[];
-  recommend_template?: string;
-}
+import { Tutorial } from "./types.ts";
 
 const categories = [
   "Technical Tutorials",
@@ -55,23 +46,18 @@ function parseItem(item: TutorialItem) {
   details.items.forEach((item) => {
     if (item.tokens[0]?.type === "text") {
       const text = item.tokens[0] as Tokens.Text;
-      if (text.tokens?.[0].type === "strong") {
-        // tags
-        tutorial.tags.push(...(parseItemTags(text.tokens) ?? []));
-      } else if (text.tokens?.[0].type === "em") {
-        // authors
-        tutorial.authors.push(...(parseItemAuthors(text.tokens) ?? []));
-      } else if (text.tokens?.[0].type === "link") {
-        // recommend template
-        tutorial.recommend_template = parseRecommendTemplate(text.tokens);
-      } else if (text.tokens?.[0].type === "text") {
+      if (text.tokens?.[0].type === "text") {
         // description
         if (tutorial.description) {
           tutorial.description += "\n\n";
         }
         tutorial.description += text.tokens
           .map((t) => (t as Tokens.Text).raw || "")
-          .join("\n\n");
+          .join("");
+      } else {
+        tutorial.tags.push(...(parseItemTags(text.tokens) ?? []));
+        tutorial.authors.push(...(parseItemAuthors(text.tokens) ?? []));
+        tutorial.recommend_template ??= parseRecommendTemplate(text.tokens);
       }
     }
   });

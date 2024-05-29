@@ -1,0 +1,25 @@
+name: Create New Tutorial Request
+
+on:
+  issues:
+    types: [opened, edited, deleted]
+  workflow_dispatch:
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    env:
+      API_SECRET: ${{ secrets.API_SECRET }}
+      DUMP_URL: ${{ vars.DUMP_URL }}
+      UPLOAD_URL: ${{ vars.UPLOAD_URL }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Upload
+        if: ${{ github.event.action != 'deleted' }}
+        run: |
+          deno task insert --file ./README.md --body '${{ github.event.issue.body }}'

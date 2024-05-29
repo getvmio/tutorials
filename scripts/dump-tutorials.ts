@@ -1,70 +1,88 @@
-import { parseArgs } from "@std/cli/parse-args";
+import { marked } from "marked";
+import { Tutorial } from "./types.ts";
 
-const parsedArgs = parseArgs(Deno.args);
+const tutorialsStart = "<!-- tutorials start -->";
+const tutorialsEnd = "<!-- tutorials end -->";
 
-const resp = await fetch(Deno.env.get("DUMP_URL")!, {});
-if (!resp.ok) {
-  throw new Error(
-    `Failed to upload tutorials: ${resp.status}, ${await resp.text()}`
-  );
+function openMarkdownFile(output: string) {
+  enum State {
+    BeforeMainPart,
+    InMainPart,
+    AfterMainPart,
+  }
+  const oldContent = Deno.readTextFileSync(output);
+  const tokens = marked.lexer(oldContent, marked.defaults);
+  let content = "",
+    prefix = "",
+    suffix = "",
+    state = State.BeforeMainPart;
+
+  tokens.forEach((token) => {
+    if (token.type === "html") {
+      if (token.raw.startsWith(tutorialsStart)) {
+        state = State.InMainPart;
+        prefix += token.raw;
+        return;
+      } else if (token.raw.startsWith(tutorialsEnd)) {
+        state = State.AfterMainPart;
+        suffix += token.raw;
+        return;
+      }
+    }
+    if (state === State.BeforeMainPart) {
+      prefix += token.raw;
+    } else if (state === State.AfterMainPart) {
+      suffix += token.raw;
+    }
+  });
+  return {
+    append: (line: string) => {
+      content += `${line}\n`;
+    },
+    dump: () => {
+      Deno.writeTextFileSync(output, `${prefix}${content}${suffix}`);
+    },
+  };
 }
 
-const { paths } = await resp.json();
+export function dumpTutorials(output: string, tutorials: Tutorial[]) {
+  const file = openMarkdownFile(output);
 
-const filename = parsedArgs.file || "temp.md";
-Deno.writeTextFileSync(filename, "");
+  const tutorialMap = new Map<string, Tutorial[]>();
+  tutorials.forEach((tutorial: Tutorial) => {
+    const key = tutorial.tags[0] || "";
+    tutorialMap.set(key, [...(tutorialMap.get(key) || []), tutorial]);
+  });
 
-type Path = {
-  name: string;
-  description: string;
-  url: string;
-  authors: string[];
-  category: string;
-  tags: string[];
-  recommend_template?: {
-    alias: string;
-    name: string;
-  };
-};
-
-const pathMap = new Map<string, Path[]>();
-paths.forEach((path: Path) => {
-  const key = path.tags[0] || "";
-  pathMap.set(key, [...(pathMap.get(key) || []), path]);
-});
-
-Array.from(pathMap.keys())
-  .sort()
-  .forEach((tag: string) => {
-    appendContent(`### ${tag}${"\n"}`);
-    const paths = pathMap.get(tag);
-    paths?.forEach((path: Path) => {
-      // url
-      appendContent(`- [${path.name}](${path.url})`);
-      // tags & authors
-      const tags = [path.category, ...path.tags]
-        .map((t: string) => `**${t}**`)
-        .join(", ");
-      const authors = path.authors.map((t: string) => `*${t}*`).join(", ");
-      appendContent(`  - ${[tags, authors].filter((v) => v).join(", ")}`);
-      // description
-      path.description.split("\n\n").forEach((line: string) => {
-        appendContent(`  - ${line}`);
+  Array.from(tutorialMap.keys())
+    .sort()
+    .forEach((tag: string) => {
+      file.append(`### ${tag}${"\n"}`);
+      const tutorials = tutorialMap.get(tag);
+      tutorials?.forEach((t: Tutorial) => {
+        // url
+        file.append(`- [${t.title}](${t.url})`);
+        // tags & authors
+        const tags = [t.category, ...t.tags]
+          .map((t: string) => `**${t}**`)
+          .join(", ");
+        const authors = t.authors.map((t: string) => `*${t}*`).join(", ");
+        file.append(`  - ${[tags, authors].filter((v) => v).join(", ")}`);
+        // description
+        t.description.split("\n\n").forEach((line: string) => {
+          file.append(`  - ${line}`);
+        });
+        // recommend template
+        if (t.recommend_template) {
+          file.append(
+            `  - [Practice on GetVM](${Deno.env.get("TEMPLATE_BASE_URL")}/${
+              t.recommend_template
+            })`
+          );
+        }
+        file.append("");
       });
-      // recommend template
-      if (path.recommend_template) {
-        appendContent(
-          `  - [Practice on GetVM](${Deno.env.get("TEMPLATE_BASE_URL")}/${
-            path.recommend_template.alias
-          })`
-        );
-      }
-      appendContent("");
     });
-  });
 
-function appendContent(line: string) {
-  Deno.writeTextFileSync(filename, `${line}\n`, {
-    append: true,
-  });
+  file.dump();
 }

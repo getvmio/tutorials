@@ -1,9 +1,14 @@
 {
   "tasks": {
+    "insert": "deno run --allow-read --allow-write --allow-net --allow-env scripts/insert-tutorial.ts",
     "upload": "deno run --allow-read --allow-net --allow-env scripts/upload-tutorials.ts",
-    "dump": "deno run --allow-write --allow-net --allow-env scripts/dump-tutorials.ts"
+    "dump": "deno run --allow-write --allow-net --allow-env scripts/dump-local-tutorials.ts"
   },
-  "imports": { "@std/cli": "jsr:@std/cli@^0.224.3", "marked": "npm:marked@^12.0.0" },
+  "imports": {
+    "@std/cli": "jsr:@std/cli@^0.224.3",
+    "js-yaml": "npm:js-yaml@^4.1.0",
+    "marked": "npm:marked@^12.0.0"
+  },
   "fmt": {
     "useTabs": false,
     "lineWidth": 100,
@@ -17,7 +22,8 @@
         "recommended"
       ],
       "exclude": [
-        "no-unused-vars"
+        "no-unused-vars",
+        "no-explicit-any"
       ]
     }
   }

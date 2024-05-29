@@ -4,7 +4,7 @@ import { parseTutorials } from "./parse-tutorials.ts";
 const parsedArgs = parseArgs(Deno.args);
 
 const tutorials = await parseTutorials(parsedArgs.file);
-tutorials.forEach((t) => console.log(t));
+console.log("tutorials count:", tutorials.length);
 
 const resp = await fetch(Deno.env.get('UPLOAD_URL')!, {
   method: "POST",

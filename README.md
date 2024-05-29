@@ -10,6 +10,8 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 
 ## Tutorials
 
+<!-- tutorials start -->
+
 ### AWK
 
 - [Gawk: Effective AWK Programming](https://www.gnu.org/software/gawk/manual)
@@ -236,27 +238,17 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [CSE 373 Analysis of Algorithms - Stony Brook University](http://www3.cs.stonybrook.edu/~skiena/373/)
   - **University Courses**, **Algorithm**
   - *Stony Brook University*
-  - Prof Steven Skienas no stranger to any student when it comes to algorithms. His seminal 
-  - [book](http://www.algorist.com/)
-  -  has been touted by many to be best for 
-  - [getting that job in Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
-  - . In addition, hes also well-known for tutoring students in competitive 
-  - [programming competitions](http://www.programming-challenges.com/pg.php?page=index)
-  - . If youre looking to brush up your knowledge on Algorithms, you cant go wrong with this course.
+  - Prof Steven Skienas no stranger to any student when it comes to algorithms. His seminal [book](http://www.algorist.com/) has been touted by many to be best for [getting that job in Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). In addition, hes also well-known for tutoring students in competitive [programming competitions](http://www.programming-challenges.com/pg.php?page=index). If youre looking to brush up your knowledge on Algorithms, you cant go wrong with this course.
 
 - [ECS 122A Algorithm Design and Analysis - UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs122f10/)
   - **University Courses**, **Algorithm**
   - *UC Davis*
-  - Taught by 
-  - [Dan Gusfield](http://web.cs.ucdavis.edu/~gusfield/)
-  -  in 2010, this course is an undergraduate introduction to algorithm design and analysis. It features traditional topics, such as Big Oh notation, as well as an importance on implementing specific algorithms. Also featured are sorting (in linear time), graph algorithms, depth-first search, string matching, dynamic programming, NP-completeness, approximation, and randomization.
+  - Taught by [Dan Gusfield](http://web.cs.ucdavis.edu/~gusfield/) in 2010, this course is an undergraduate introduction to algorithm design and analysis. It features traditional topics, such as Big Oh notation, as well as an importance on implementing specific algorithms. Also featured are sorting (in linear time), graph algorithms, depth-first search, string matching, dynamic programming, NP-completeness, approximation, and randomization.
 
 - [ECS 222A Graduate Level Algorithm Design and Analysis - UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs222w11/)
   - **University Courses**, **Algorithm**
   - *UC Davis*
-  - This is the graduate level complement to the ECS 122A undergraduate algorithms course by 
-  - [Dan Gusfield](http://web.cs.ucdavis.edu/~gusfield/)
-  -  in 2011. It assumes an undergrad course has already been taken in algorithms, and, while going over some undergraduate algorithms topics, focuses more on increasingly complex and advanced algorithms.
+  - This is the graduate level complement to the ECS 122A undergraduate algorithms course by [Dan Gusfield](http://web.cs.ucdavis.edu/~gusfield/) in 2011. It assumes an undergrad course has already been taken in algorithms, and, while going over some undergraduate algorithms topics, focuses more on increasingly complex and advanced algorithms.
 
 - [6.INT Hacking a Google Interview - MIT](https://courses.csail.mit.edu/iap/interview/index.php)
   - **University Courses**, **Algorithm**
@@ -271,16 +263,12 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [6.046J/18.410J Design and Analysis of Algorithms - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
   - **University Courses**, **Algorithm**
   - *MIT*
-  - This is an intermediate algorithms course with an emphasis on teaching techniques for the design and analysis of efficient algorithms, emphasizing methods of application. Topics include divide-and-conquer, randomization, dynamic programming, greedy algorithms, incremental improvement, complexity, and cryptography. This course assumes that students know how to analyze simple algorithms and data structures from having taken 
-  - [6.006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-  - . It introduces students to the design of computer algorithms, as well as analysis of sophisticated algorithms.
+  - This is an intermediate algorithms course with an emphasis on teaching techniques for the design and analysis of efficient algorithms, emphasizing methods of application. Topics include divide-and-conquer, randomization, dynamic programming, greedy algorithms, incremental improvement, complexity, and cryptography. This course assumes that students know how to analyze simple algorithms and data structures from having taken [6.006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/). It introduces students to the design of computer algorithms, as well as analysis of sophisticated algorithms.
 
 - [6.851 Advanced Data Structures - MIT](https://courses.csail.mit.edu/6.851/spring21/index.html)
   - **University Courses**, **Algorithm**
   - *MIT*
-  - This is an advanced DS course, you must be done with the 
-  - [Advanced Algorithms](https://courses.csail.mit.edu/6.854/current/)
-  -  course before attempting this one.
+  - This is an advanced DS course, you must be done with the [Advanced Algorithms](https://courses.csail.mit.edu/6.854/current/) course before attempting this one.
 
 - [6.854/18.415J Advanced Algorithms - MIT](https://courses.csail.mit.edu/6.854/current/)
   - **University Courses**, **Algorithm**
@@ -295,9 +283,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [15-451/651 Algorithms - Carnegie Mellon University](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/)
   - **University Courses**, **Algorithm**
   - *Carnegie Mellon University*
-  - The required algorithms class that go in depth into all basic algorithms and the proofs behind them. This is one of the heavier algorithms curriculums on this page. Taught by Avrim Blum and 
-  - [Manuel Blum](http://en.wikipedia.org/wiki/Manuel_Blum)
-  -  who has a Turing Award due to his contributions to algorithms. Course link includes a very comprehensive set of reference notes by Avrim Blum.
+  - The required algorithms class that go in depth into all basic algorithms and the proofs behind them. This is one of the heavier algorithms curriculums on this page. Taught by Avrim Blum and [Manuel Blum](http://en.wikipedia.org/wiki/Manuel_Blum) who has a Turing Award due to his contributions to algorithms. Course link includes a very comprehensive set of reference notes by Avrim Blum.
 
 - [16s-4102 Algorithms - University of Virginia](http://www.cs.virginia.edu/~shelat/16s-4102/)
   - **University Courses**, **Algorithm**
@@ -455,9 +441,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [6.868J The Society of Mind - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm)
   - **University Courses**, **Artificial Intelligence**
   - *MIT*
-  - This course is an introduction, by Prof. 
-  - [Marvin Minsky](http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0)
-  - , to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.
+  - This course is an introduction, by Prof. [Marvin Minsky](http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0), to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.
 
 ### Assembly
 
@@ -1000,9 +984,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [CS 75 Principles of Compiler Design - Swathmore College](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
   - **University Courses**, **Compiler**
   - *Swathmore College*
-  - Modelled after the influential paper on 
-  - [incremental approach to compiler design](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
-  - , this course teaches how to build a compiler in OCaml
+  - Modelled after the influential paper on [incremental approach to compiler design](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf), this course teaches how to build a compiler in OCaml
 
 - [CS 143 Compiler construction - Stanford University](https://web.stanford.edu/class/cs143/)
   - **University Courses**, **Compiler**
@@ -2424,9 +2406,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [COMS 4771 Machine Learning - Columbia University](http://www.cs.columbia.edu/~jebara/4771/index.html)
   - **University Courses**, **Machine Learning**
   - *Columbia University*
-  - Course taught by 
-  - [Tony Jebara](http://www.cs.columbia.edu/~jebara/resume.html)
-  -  introduces topics in Machine Learning for both generative and discriminative estimation. Material will include least squares methods, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models, hidden Markov models, support vector machines, and kernel methods.
+  - Course taught by [Tony Jebara](http://www.cs.columbia.edu/~jebara/resume.html) introduces topics in Machine Learning for both generative and discriminative estimation. Material will include least squares methods, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models, hidden Markov models, support vector machines, and kernel methods.
 
 - [CS 109 Data Science - Harvard University](http://cs109.github.io/2015/)
   - **University Courses**, **Machine Learning**
@@ -2481,11 +2461,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [DS-GA 1008 Deep Learning - New York University](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
   - **University Courses**, **Machine Learning**
   - *New York University*
-  - This increasingly popular course is taught through the Data Science Center at NYU. Originally introduced by 
-  - [Yann Lecun](http://yann.lecun.com/)
-  - , it is now led by 
-  - [Zaid Harchaoui](http://www.harchaoui.eu/)
-  - , although Prof. Lecun is rumored to still stop by from time to time. It covers the theory, technique, and tricks that are used to achieve very high accuracy for machine learning tasks in computer vision and natural language processing. The assignments are in Lua and hosted on Kaggle.
+  - This increasingly popular course is taught through the Data Science Center at NYU. Originally introduced by [Yann Lecun](http://yann.lecun.com/), it is now led by [Zaid Harchaoui](http://www.harchaoui.eu/), although Prof. Lecun is rumored to still stop by from time to time. It covers the theory, technique, and tricks that are used to achieve very high accuracy for machine learning tasks in computer vision and natural language processing. The assignments are in Lua and hosted on Kaggle.
 
 - [EECS E6893 & EECS E6895 Big Data Analytics & Advanced Big Data Analytics - Columbia University](http://www.ee.columbia.edu/~cylin/course/bigdata/)
   - **University Courses**, **Machine Learning**
@@ -2500,13 +2476,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [EE103 Introduction to Matrix Methods - Stanford University](http://stanford.edu/class/ee103/)
   - **University Courses**, **Machine Learning**
   - *Stanford University*
-  - The course covers the basics of matrices and vectors, solving linear equations, least-squares methods, and many applications. Itll cover the mathematics, but the focus will be on using matrix methods in applications such as tomography, image processing, data fitting, time series prediction, finance, and many others. EE103 is based on a book that 
-  - [Stephen Boyd](http://stanford.edu/~boyd/)
-  -  and 
-  - [Lieven Vandenberghe](http://www.seas.ucla.edu/~vandenbe/)
-  -  are currently writing. Students will use a new language called 
-  - [Julia](http://julialang.org/)
-  -  to do computations with matrices and vectors.
+  - The course covers the basics of matrices and vectors, solving linear equations, least-squares methods, and many applications. Itll cover the mathematics, but the focus will be on using matrix methods in applications such as tomography, image processing, data fitting, time series prediction, finance, and many others. EE103 is based on a book that [Stephen Boyd](http://stanford.edu/~boyd/) and [Lieven Vandenberghe](http://www.seas.ucla.edu/~vandenbe/) are currently writing. Students will use a new language called [Julia](http://julialang.org/) to do computations with matrices and vectors.
 
 - [Fast.ai Introduction to Machine Learning for Coders Analyzing Big Data with Twitter -  UC Berkeley](http://course.fast.ai/ml.html)
   - **University Courses**, **Machine Learning**
@@ -2516,9 +2486,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [Machine Learning: 2014-2015 Intro to Statistical Learning - University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
   - **University Courses**, **Machine Learning**
   - *University of Oxford*
-  - The course focusses on neural networks and uses the 
-  - [Torch](https://github.com/torch/torch7/wiki/Cheatsheet)
-  -  deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
+  - The course focusses on neural networks and uses the [Torch](https://github.com/torch/torch7/wiki/Cheatsheet) deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
 
 - [10-601 Machine Learning - Carnegie Mellon University](http://www.cs.cmu.edu/~ninamf/courses/601sp15/)
   - **University Courses**, **Machine Learning**
@@ -3113,11 +3081,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [CS 91 Introduction to Programming Languages - Swathmore College](https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html)
   - **University Courses**, **Programming**
   - *Swathmore College*
-  - Uses the 
-  - [Pyret](https://www.pyret.org/)
-  -  programming language & 
-  - [PAPL](http://papl.cs.brown.edu/2014/)
-  -  book to understand the fundamentals of programming languages.
+  - Uses the [Pyret](https://www.pyret.org/) programming language & [PAPL](http://papl.cs.brown.edu/2014/) book to understand the fundamentals of programming languages.
 
 - [Corsopl Principles of Programming Languages - Politecnico di Milano](https://pradella.faculty.polimi.it/PL.html)
   - **University Courses**, **Programming**
@@ -3132,17 +3096,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [CS 173 Programming Languages - Brown University](http://cs.brown.edu/courses/cs173/2014/)
   - **University Courses**, **Programming**
   - *Brown University*
-  - Course by Prof. Krishnamurthi (author of 
-  - [HtDP](http://htdp.org/2003-09-26/Book/)
-  - ) and numerous other 
-  - [awesome](http://cs.brown.edu/courses/cs173/2012/book/)
-  -  
-  - [books](http://papl.cs.brown.edu/2014/index.html)
-  -  on programming languages. Uses a custom designed 
-  - [Pyret](http://www.pyret.org/)
-  -  programming language to teach the concepts. There was an 
-  - [online class](http://cs.brown.edu/courses/cs173/2012/OnLine/)
-  -  hosted in 2012, which includes all lecture videos for you to enjoy.
+  - Course by Prof. Krishnamurthi (author of [HtDP](http://htdp.org/2003-09-26/Book/)) and numerous other [awesome](http://cs.brown.edu/courses/cs173/2012/book/) [books](http://papl.cs.brown.edu/2014/index.html) on programming languages. Uses a custom designed [Pyret](http://www.pyret.org/) programming language to teach the concepts. There was an [online class](http://cs.brown.edu/courses/cs173/2012/OnLine/) hosted in 2012, which includes all lecture videos for you to enjoy.
 
 - [CS 223 Purely Functional Data Structures In Elm - University of Chicago](https://www.classes.cs.uchicago.edu/archive/2016/winter/22300-1/)
   - **University Courses**, **Programming**
@@ -3172,11 +3126,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [CS 5470 Compilers - University of Utah](http://matt.might.net/teaching/compilers/spring-2015/)
   - **University Courses**, **Programming**
   - *University of Utah*
-  - If youre a fan of Prof Matts writing on his 
-  - [fantastic blog](http://matt.might.net/articles/)
-  -  you ought to give this a shot. The course covers the design and implementation of compilers, and it explores related topics such as interpreters, virtual machines and runtime systems. Aside from the Profs witty take on 
-  - [cheating](http://matt.might.net/teaching/compilers/spring-2015/#collaboration)
-  -  the page has tons of interesting links on programming languages, parsing and compilers.
+  - If youre a fan of Prof Matts writing on his [fantastic blog](http://matt.might.net/articles/) you ought to give this a shot. The course covers the design and implementation of compilers, and it explores related topics such as interpreters, virtual machines and runtime systems. Aside from the Profs witty take on [cheating](http://matt.might.net/teaching/compilers/spring-2015/#collaboration) the page has tons of interesting links on programming languages, parsing and compilers.
 
 - [CS 6118 Types and Semantics - Cornell University](http://www.cs.cornell.edu/courses/CS6118/2012fa/)
   - **University Courses**, **Programming**
@@ -3298,16 +3248,12 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [CS 1410-2 Computer Science I and II for Hackers - University of Utah](http://www.eng.utah.edu/~cs1410-20/)
   - **University Courses**, **Programming**
   - *University of Utah*
-  - An intro course in the spirit of SICP designed by 
-  - [Professor Matthew Flatt](http://www.cs.utah.edu/~mflatt/)
-  -  (one of the lead designers of Racket and author of HtDP). Mostly Racket and C, and a bit of Java, with explanations on how high level functional programming concepts relate to the design of OOP programs. Do this one before SICP if SICP is a bit too much...
+  - An intro course in the spirit of SICP designed by [Professor Matthew Flatt](http://www.cs.utah.edu/~mflatt/) (one of the lead designers of Racket and author of HtDP). Mostly Racket and C, and a bit of Java, with explanations on how high level functional programming concepts relate to the design of OOP programs. Do this one before SICP if SICP is a bit too much...
 
 - [CS 2110 Object-Oriented Programming and Data Structures - Cornell University](http://www.cs.cornell.edu/courses/CS2110/2014fa/index.html)
   - **University Courses**, **Programming**
   - *Cornell University*
-  - CS 2110 is an intermediate-level programming course and an introduction to computer science. Topics include program design and development, debugging and testing, object-oriented programming, proofs of correctness, complexity analysis, recursion, commonly used data structures, graph algorithms, and abstract data types. Java is the principal programming language. The course syllabus can easily be extracted by looking at the link to 
-  - [lectures](http://www.cs.cornell.edu/courses/CS2110/2014fa/lecturenotes.html)
-  - .
+  - CS 2110 is an intermediate-level programming course and an introduction to computer science. Topics include program design and development, debugging and testing, object-oriented programming, proofs of correctness, complexity analysis, recursion, commonly used data structures, graph algorithms, and abstract data types. Java is the principal programming language. The course syllabus can easily be extracted by looking at the link to [lectures](http://www.cs.cornell.edu/courses/CS2110/2014fa/lecturenotes.html).
 
 - [CS 4302 Web Information Systems - Cornell University](http://courses2.cit.cornell.edu/info4302_2012fa/)
   - **University Courses**, **Programming**
@@ -3317,9 +3263,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [CSCE 2004 Programming Foundations I - University of Oxford](http://www.csce.uark.edu/~sgauch/2004/S14/index.html)
   - **University Courses**, **Programming**
   - *University of Oxford*
-  - The course focusses on neural networks and uses the 
-  - [Torch](https://github.com/torch/torch7/wiki/Cheatsheet)
-  -  deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
+  - The course focusses on neural networks and uses the [Torch](https://github.com/torch/torch7/wiki/Cheatsheet) deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
 
 - [CS-for-all CS for All - Harvey Mudd College](http://www.cs.hmc.edu/csforall/)
   - **University Courses**, **Programming**
@@ -4280,10 +4224,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [CS 5412 Cloud Computing - Cornell University](http://www.cs.cornell.edu/Courses/CS5412/2014sp/)
   - **University Courses**, **Systems**
   - *Cornell University*
-  - Taught by one of the stalwarts of this field, Prof Ken Birman, this course has a fantastic set of slides that one can go through. The Profs 
-  - [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154)
-  -  is also a gem and recommended as a must read in Googles tutorial on 
-  - [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
+  - Taught by one of the stalwarts of this field, Prof Ken Birman, this course has a fantastic set of slides that one can go through. The Profs [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154) is also a gem and recommended as a must read in Googles tutorial on [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 
 - [CSCI 360 Computer Architecture 3 - CUNY Hunter College](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php)
   - **University Courses**, **Systems**
@@ -4363,8 +4304,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [18-447 Introduction to Computer Architecture - CMU](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=start)
   - **University Courses**, **Systems**
   - *Carnegie-Mellon University*
-  - Very comprehensive material on Computer Architecture - definitely more than just "introduction". Online material is very user-friendly, even the recitation videos available online. This is the Spring'15 version by Prof. 
-  - [Onur Mutlu ](http://users.ece.cmu.edu/~omutlu/)
+  - Very comprehensive material on Computer Architecture - definitely more than just "introduction". Online material is very user-friendly, even the recitation videos available online. This is the Spring'15 version by Prof. [Onur Mutlu ](http://users.ece.cmu.edu/~omutlu/)
 
 ### Tech
 
@@ -4616,3 +4556,5 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Video Courses**, **npm**, **Web Development**
   - *Vishwas Gopinath*
   - Master the basics of npm and web development with this course by Vishwas Gopinath.
+
+<!-- tutorials end -->
