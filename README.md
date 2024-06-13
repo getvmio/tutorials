@@ -44,6 +44,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Technical Tutorials**, **Algorithm**, *Larry Liu Xinyu*
   - Elementary Algorithms by Larry Liu Xinyu provides a comprehensive introduction to fundamental algorithms and data structures, covering topics such as sorting, searching, and algorithm design.
 
+- [Algorithm Tutorials](https://labex.io/tutorials/category/algorithm)
+  - **Technical Tutorials**, **Algorithms**, *LabEx.io*
+  - Learn fundamental algorithms and data structures, focusing on problem-solving techniques and efficiency.
+
 - [Essential Algorithms](https://www.programming-books.io/essential/algorithms/)
   - **Technical Tutorials**, **Algorithm**, *Krzysztof Kowalczyk and  Stack Overflow Documentation project*
   - Essential Algorithms is a comprehensive guide to algorithms and data structures, covering essential concepts for programming and problem-solving.
@@ -424,6 +428,14 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Technical Tutorials**, **Big Data**, **Spark**, *Jules S. Damji*
   - Learning Spark: Lightning-Fast Data Analytics
 
+- [Big Data Tutorials](https://labex.io/tutorials/category/big-data)
+  - **Technical Tutorials**, **Big Data**, *LabEx.io*
+  - These tutorials guide you through handling big data across clusters with Hadoop, covering basics to advanced topics like HDFS, MapReduce, YARN, and Apache Hive.
+
+- [Hadoop Tutorials](https://labex.io/tutorials/category/hadoop)
+  - **Technical Tutorials**, **Hadoop**, *LabEx.io*
+  - Hadoop tutorials teach you how to handle big data, focusing on Hadoop ecosystem components like HDFS, MapReduce, YARN, and Hive.
+
 ### Blockchain
 
 - [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
@@ -483,6 +495,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [Build Your Own Redis with C/C++](https://build-your-own.org)
   - **Technical Tutorials**, **C**, **Redis**, *build-your-own.org*
   - Build Your Own Redis with C/C++ is a comprehensive guide to building and understanding Redis from scratch using C/C++ programming languages.
+
+- [C Tutorials](https://labex.io/tutorials/category/c)
+  - **Technical Tutorials**, **C**, *LabEx.io*
+  - Learn C programming from basics to advanced topics, focusing on system-level programming and application development.
 
 - [C Handbook](https://thevalleyofcode.com/c/)
   - **Technical Tutorials**, **C**, *Flavio Copes*
@@ -655,6 +671,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Technical Tutorials**, **C++**, *Bjarne Stroustrup*
   - Joint Strike Fighter, C++ Coding Standards by Bjarne Stroustrup
 
+- [C++ Tutorials](https://labex.io/tutorials/category/c++)
+  - **Technical Tutorials**, **C++**, *LabEx.io*
+  - C++ tutorials cover basic programming, advanced topics like image processing and web servers, and complex application development.
+
 - [Learn C++ Programming Language](http://www.tutorialspoint.com/cplusplus/cpp_tutorial.pdf)
   - **Technical Tutorials**, **C++**, *Tutorials Point*
   - Learn C++ Programming Language by Tutorials Point
@@ -742,6 +762,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [A search engine in CSS](https://stories.algolia.com/a-search-engine-in-css-b5ec4e902e97)
   - **Technical Tutorials**, **CSS**
   - A search engine in CSS is a book that explores the fascinating concept of creating a search engine using CSS. It delves into front-end development techniques and showcases the potential of CSS for building interactive and functional elements.
+
+- [CSS Tutorials](https://labex.io/tutorials/category/css)
+  - **Technical Tutorials**, **CSS**, *LabEx.io*
+  - Learn to style web pages with CSS, covering layout techniques, responsive design, and CSS frameworks.
 
 ### Cloud Computing
 
@@ -861,6 +885,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Technical Tutorials**, **Computer Graphics**
   - A 3D Modeller provides insights into the world of 3D modeling, computer graphics, and software development. It covers techniques, tools, and best practices for creating 3D models.
 
+- [OpenCV Tutorials](https://labex.io/tutorials/category/opencv)
+  - **Technical Tutorials**, **Computer Graphics**, *LabEx.io*
+  - OpenCV tutorials teach real-time computer vision, covering image processing, video analysis, and more using the OpenCV library.
+
 ### Dart
 
 - [Learning Dart](https://riptutorial.com/Download/dart.pdf)
@@ -884,6 +912,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [Data Mining Concepts and Techniques](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf)
   - **Technical Tutorials**, **Data Science**, *Jiawei Han*, *Micheline Kamber*, *Jian Pei*
   - Data Mining Concepts and Techniques by Jiawei Han, Micheline Kamber, and Jian Pei provides an in-depth exploration of data mining concepts, techniques, and applications in the field of machine learning and data analysis. The book covers topics such as data preprocessing, classification, clustering, and association rule mining, offering valuable insights into the principles and methods of data mining.
+
+- [Data Science Tutorials](https://labex.io/tutorials/category/data-science)
+  - **Technical Tutorials**, **Data Science**, *LabEx.io*
+  - The data science path involves learning Python, statistics, and machine learning. It covers tools like Pandas, NumPy, and Matplotlib, and extends to machine learning frameworks like Scikit-learn and TensorFlow. Data engineering skills such as data cleaning and database management are also included.
 
 - [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
   - **Technical Tutorials**, **Data Science**, *Avrim Blum*, *John Hopcroft*, *Ravindran Kannan*
@@ -1013,6 +1045,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Video Courses**, **DevOps**, *Karl Krueger*
   - Introductory course to DevOps with a focus on software development and IT operations.
 
+- [DevOps Tutorials](https://labex.io/tutorials/category/devops)
+  - **Technical Tutorials**, **DevOps**, *LabEx.io*
+  - DevOps involves mastering technologies such as Linux, Docker, Git, Ansible, Kubernetes, and Jenkins. The path focuses on automation, containerization, version control, and continuous integration/delivery pipelines.
+
 ### Django
 
 - [Django Rest Framework](https://riptutorial.com/Download/django-rest-framework.pdf)
@@ -1023,11 +1059,20 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Technical Tutorials**, **Django**, **Python**, *Gaston C. Hillar*
   - Django RESTful Web Services is a comprehensive guide to building RESTful web services using Django. The book covers topics such as API development, authentication, serialization, and testing, providing practical examples and best practices for designing and implementing web services with Django.
 
+- [Django Tutorials](https://labex.io/tutorials/category/django)
+  - **Technical Tutorials**, **Django**, **Python**, *LabEx.io*
+  - Django tutorials cover web development with the Django framework, focusing on building robust and scalable web applications.
+
+
 ### Docker
 
 - [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf)
   - **Technical Tutorials**, **Docker**, *Anthony Baire*
   - A comprehensive tutorial on Docker, covering containerization, deployment, and software development with practical examples and hands-on exercises.
+
+- [Docker Tutorials](https://labex.io/tutorials/category/docker)
+  - **Technical Tutorials**, **Docker**, *LabEx.io*
+  - Docker tutorials teach containerization for scalable deployments. They cover Docker basics, container orchestration, and integration with other DevOps tools like Kubernetes.
 
 - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
   - **Video Courses**, **Docker**, *Mumshad Mannambeth*
@@ -1171,6 +1216,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Technical Tutorials**, **Git**, *Scott Chacon*, *Ben Straub*
   - Pro Git is a comprehensive guide to the Git version control system, written by Scott Chacon and Ben Straub. It covers topics related to version control, Git workflows, software development, and collaborative coding practices.
 
+- [Git Tutorials](https://labex.io/tutorials/category/git)
+  - **Technical Tutorials**, **Git**, *LabEx.io*
+  - Git tutorials cover version control for collaborative development, including branching, merging, and managing repositories effectively.
+
 - [Foundations of Git - Certification Course](https://learn.gitkraken.com/courses/git-foundations)
   - **Video Courses**, **Git**, *Axosoft*
   - Foundations of Git - Certification Course by Axosoft
@@ -1248,6 +1297,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [Go Web Development Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-web-development)
   - **Technical Tutorials**, **Go**, *Mark Lewin*
   - A concise guide to web development using Go programming language.
+
+- [Go Tutorials](https://labex.io/tutorials/category/go)
+  - **Technical Tutorials**, **Go**, *LabEx.io*
+  - Go tutorials cover the fundamentals of the language, including syntax, types, and object-oriented programming.
 
 - [How To Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)
   - **Technical Tutorials**, **Go**, *Mark Bates*
@@ -1350,6 +1403,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [How to Code in HTML5 and CSS3](https://web.archive.org/web/20180816174417/http://howtocodeinhtml.com/HowToCodeInHTML5AndCSS3.pdf)
   - **Technical Tutorials**, **HTML**, **CSS**, *Damian Wielgosik*
   - A comprehensive guide to learning HTML5 and CSS3 by Damian Wielgosik, covering the fundamentals of web development and design.
+
+- [HTML Tutorials](https://labex.io/tutorials/category/html)
+  - **Technical Tutorials**, **HTML**, *LabEx.io*
+  - HTML tutorials cover the basics of web development, teaching you how to structure web pages using HTML tags and attributes.
 
 - [HTML5 Canvas Notes for Professionals](https://goalkicker.com/HTML5CanvasBook/)
   - **Technical Tutorials**, **HTML**, *Compiled from StackOverflow documentation*
@@ -1469,6 +1526,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Technical Tutorials**, **Java**, *Eric Jendrock*
   - The Java EE7 Tutorial is a comprehensive guide to Java EE 7, covering web development, programming, and Java EE technologies.
 
+- [Java Tutorials](https://labex.io/tutorials/category/java)
+  - **Technical Tutorials**, **Java**, *LabEx.io*
+  - Java tutorials cover basic to advanced programming concepts, object-oriented programming, and application development using Java.
+
 - [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book)
   - **Technical Tutorials**, **Java**, *Kevin Sahin*
   - The Java Web Scraping Handbook by Kevin Sahin covers the fundamentals of web scraping using Java, providing practical insights for developers interested in data extraction and automation.
@@ -1538,6 +1599,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
   - **Technical Tutorials**, **JavaScript**, *Kyle Simpson*
   - Functional-Light JavaScript is a comprehensive guide to functional programming in JavaScript, authored by Kyle Simpson. It delves into the principles of functional programming and how they can be applied in JavaScript development.
+
+- [JavaScript Tutorials](https://labex.io/tutorials/category/javascript)
+  - **Technical Tutorials**, **JavaScript**, *LabEx.io*
+  - JavaScript tutorials teach client-side scripting, including DOM manipulation, event handling, and creating interactive web applications.
 
 - [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf)
   - **Technical Tutorials**, **JavaScript**, *Danny Goodman*
@@ -1709,6 +1774,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Video Courses**, **Jenkins**, *Raghav Pal*
   - Jenkins | Step-by-Step for Complete Beginners is a comprehensive guide to learning Jenkins for beginners. It covers automation, DevOps, and step-by-step tutorials for setting up Jenkins.
 
+- [Jenkins Tutorials](https://labex.io/tutorials/category/jenkins)
+  - **Technical Tutorials**, **Jenkins**, *LabEx.io*
+  - Learn to automate CI/CD pipelines using Jenkins, focusing on continuous integration and delivery practices to streamline development processes.
+
 ### Julia
 
 - [Julia by Example](http://samuelcolvin.github.io/JuliaByExample)
@@ -1798,6 +1867,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [Kubernetes Course](https://www.youtube.com/watch?v=d6WC5n9G_sM)
   - **Video Courses**, **Kubernetes**, *Bogdan Stashchuk*
   - A comprehensive Kubernetes course by Bogdan Stashchuk.
+
+- [Kubernetes Tutorials](https://labex.io/tutorials/category/kubernetes)
+  - **Technical Tutorials**, **Kubernetes**, *LabEx.io*
+  - These tutorials guide you through managing containerized applications using Kubernetes, focusing on orchestration, scaling, and maintenance of application clusters.
 
 ### LaTeX
 
@@ -1911,6 +1984,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Technical Tutorials**, **Linux**
   - Creating a Linux desktop application with Ruby for GTK
 
+- [Linux Tutorials](https://labex.io/tutorials/category/linux)
+  - **Technical Tutorials**, **Linux**, *LabEx.io*
+  - Linux is one of the most popular operating systems in the world. It is used in everything from desktop computers to servers and even mobile devices. This skill tree will teach you how to use Linux from the command line, as well as some basic system administration tasks like installing software and managing users.
+
 ### Machine Learning
 
 - [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V)
@@ -1932,6 +2009,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [A First Encounter with Machine Learning](https://web.archive.org/web/20210420163002/https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf)
   - **Technical Tutorials**, **Machine Learning**, **Data Science**, *Max Welling*
   - A First Encounter with Machine Learning provides an introductory exploration of machine learning, covering fundamental concepts, algorithms, and applications in data science.
+
+- [Machine Learning Tutorials](https://labex.io/tutorials/category/machine-learning)
+  - **Technical Tutorials**, **Machine Learning**, *LabEx.io*
+  - Learn core machine learning concepts, algorithms, and techniques using Python and libraries such as Scikit-learn and TensorFlow. These tutorials cover supervised and unsupervised learning, neural networks, and model evaluation.
 
 - [A Selective Overview of Deep Learning](https://arxiv.org/abs/1904.05526)
   - **Technical Tutorials**, **Machine Learning**, *Fan*, *Ma*, *Zhong*
@@ -2149,6 +2230,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [MySQL for Developers](https://planetscale.com/learn/courses/mysql-for-developers/introduction/course-introduction)
   - **Video Courses**, **MySQL**, **Database**, *Aaron Francis*
   - MySQL for Developers by Aaron Francis is a comprehensive guide to mastering MySQL for application development. It covers essential topics such as database design, querying, optimization, and integration with programming languages like Python and Java.
+
+- [MySQL Tutorials](https://labex.io/tutorials/category/mysql)
+  - **Technical Tutorials**, **MySQL**, *LabEx.io*
+  - MySQL tutorials cover database management, SQL queries, and advanced database operations for efficient data handling.
 
 ### Networking
 
@@ -2415,6 +2500,11 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/docs)
   - **Technical Tutorials**, **Pandas**, **Python**, *Wes McKinney*
   - Powerful Python data analysis toolkit
+
+- [Pandas Tutorials](https://labex.io/tutorials/category/pandas)
+  - **Technical Tutorials**, **Pandas**, **Python**, *LabEx.io*
+  - Learn data manipulation and analysis with Pandas, covering data frames, series, and essential Pandas functions.
+
 
 ### Perl
 
@@ -2757,6 +2847,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [Python tutorial for beginners](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
   - **Video Courses**, **Python**, *Corey Schafer*
   - In this Python Beginner Tutorial, we will start with the basics of how to install and setup Python for Mac and Windows. We will also take a look at the interactive prompt, as well as creating and running our first script. Let's get started.
+
+- [Python Tutorials](https://labex.io/tutorials/category/python)
+  - **Technical Tutorials**, **Python**, *LabEx.io*
+  - Python is a versatile programming language widely used in various domains, from web development to data science and machine learning. The tutorials cover basic programming concepts, command-line usage, and more advanced topics.
 
 - [Python Machine Learning Projects](https://www.digitalocean.com/community/books/python-machine-learning-projects-a-digitalocean-ebook)
   - **Technical Tutorials**, **Python**, **Machine Learning**, *Lisa Tagliaferri*, *Brian Boucheron*, *Michelle Morales*, *Ellie Birkbeck*, *Alvin Wan*
@@ -3146,6 +3240,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Technical Tutorials**, **React**, *Flavio Copes*
   - The React Beginners Handbook is a comprehensive guide to learning React for beginners. It covers the fundamentals of React, JavaScript, and frontend development, making it an essential resource for those new to web development.
 
+- [React Tutorials](https://labex.io/tutorials/category/react)
+  - **Technical Tutorials**, **React**, *LabEx.io*
+  - React tutorials focus on building user interfaces using the React library. The path covers components, state management, hooks, and integrating React with other tools and libraries for building modern web applications.
+
 - [The Complete Redux Book](https://leanpub.com/redux-book/read)
   - **Technical Tutorials**, **React**, *Boris Dinkevich*
   - The Complete Redux Book by Boris Dinkevich and Ilya Gelman provides comprehensive coverage of Redux, state management, and its integration with React. The book offers practical examples, best practices, and in-depth insights into building robust applications with Redux.
@@ -3322,6 +3420,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Technical Tutorials**, **Rust**, *Steve Klabnik*
   - The Rust Programming Language is a comprehensive guide to learning and using the Rust programming language. It covers topics such as memory safety, concurrency, and performance, making it a valuable resource for software developers and programming enthusiasts.
 
+- [Rust Tutorials](https://labex.io/tutorials/category/rust)
+  - **Technical Tutorials**, **Rust**, *LabEx.io*
+  - Learn Rust programming, focusing on its unique features like ownership, memory safety, and concurrency.
+
 - [Command line apps in Rust](https://rust-cli.github.io/book/index.html)
   - **Technical Tutorials**, **Rust**
   - A comprehensive guide to developing command line applications in Rust, covering topics such as Rust programming, CLI tools, and software development.
@@ -3432,6 +3534,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **University Courses**, **Security**, *UC Berkeley*
   - This course discusses the complexity-theory foundations of modern cryptography, and looks at recent results in the field such as Fully Homomorphic Encryption, Indistinguishability Obfuscation, MPC and so on.
 
+- [Cyber Security Tutorials](https://labex.io/tutorials/category/cyber-security)
+  - **Technical Tutorials**, **Cyber Security**, *LabEx.io*
+  - Cyber Security tutorials focus on protecting systems and networks from digital attacks. This path covers fundamental concepts, threat detection, and prevention strategies.
+
 ### Shell scripting
 
 - [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)
@@ -3453,6 +3559,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [Linux Shell Scripting With Bash](https://archive.org/download/B-001-002-839/LinuxShellScriptingWithBash-Sams.pdf)
   - **Technical Tutorials**, **Shell scripting**, *Ken O. Burtch*
   - A comprehensive guide to Linux shell scripting with Bash, covering fundamental concepts and advanced techniques for writing powerful scripts and automating tasks.
+
+- [Shell Tutorials](https://labex.io/tutorials/category/shell)
+  - **Technical Tutorials**, **Shell Scripting**, *LabEx.io*
+  - Shell scripting tutorials cover automating tasks in Unix-like systems, focusing on script writing, command-line tools, and system administration.
 
 - [The Linux Command Line](http://linuxcommand.org/tlcl.php)
   - **Technical Tutorials**, **Shell scripting**, *William E. Shotts Jr.*
@@ -3743,6 +3853,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [Bootstrap 4 Quick Start: Code Modern Responsive Websites](https://www.udemy.com/course/bootstrap-4)
   - **Video Courses**, **Web Development**, *Brad Hussey*
   - Bootstrap 4 Quick Start: Code Modern Responsive Websites by Brad Hussey.
+
+- [Web Development Tutorials](https://labex.io/tutorials/category/web-development)
+  - **Technical Tutorials**, **Web Development**, *LabEx.io*
+  - These tutorials cover core web technologies like HTML, CSS, and JavaScript, along with frameworks such as React and Vue.js. The path includes back-end development, databases, version control, testing, and deployment practices.
 
 - [Complete Bootstrap 4 course - build 3 projects](https://www.udemy.com/course/bootstrap-4-tutorials)
   - **Video Courses**, **Web Development**, *Igneus Technologies*
