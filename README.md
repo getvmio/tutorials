@@ -428,7 +428,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Technical Tutorials**, **Big Data**, **Spark**, *Jules S. Damji*
   - Learning Spark: Lightning-Fast Data Analytics
 
-- [Big Data Tutorials](https://labex.io/tutorials/category/big-data)
+- [Big Data Tutorials](https://labex.io/tutorials/category/bigdata)
   - **Technical Tutorials**, **Big Data**, *LabEx.io*
   - These tutorials guide you through handling big data across clusters with Hadoop, covering basics to advanced topics like HDFS, MapReduce, YARN, and Apache Hive.
 
@@ -671,7 +671,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Technical Tutorials**, **C++**, *Bjarne Stroustrup*
   - Joint Strike Fighter, C++ Coding Standards by Bjarne Stroustrup
 
-- [C++ Tutorials](https://labex.io/tutorials/category/c++)
+- [C++ Tutorials](https://labex.io/tutorials/category/cpp)
   - **Technical Tutorials**, **C++**, *LabEx.io*
   - C++ tutorials cover basic programming, advanced topics like image processing and web servers, and complex application development.
 
@@ -2010,7 +2010,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **Technical Tutorials**, **Machine Learning**, **Data Science**, *Max Welling*
   - A First Encounter with Machine Learning provides an introductory exploration of machine learning, covering fundamental concepts, algorithms, and applications in data science.
 
-- [Machine Learning Tutorials](https://labex.io/tutorials/category/machine-learning)
+- [Machine Learning Tutorials](https://labex.io/tutorials/category/ml)
   - **Technical Tutorials**, **Machine Learning**, *LabEx.io*
   - Learn core machine learning concepts, algorithms, and techniques using Python and libraries such as Scikit-learn and TensorFlow. These tutorials cover supervised and unsupervised learning, neural networks, and model evaluation.
 
@@ -3534,7 +3534,7 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
   - **University Courses**, **Security**, *UC Berkeley*
   - This course discusses the complexity-theory foundations of modern cryptography, and looks at recent results in the field such as Fully Homomorphic Encryption, Indistinguishability Obfuscation, MPC and so on.
 
-- [Cyber Security Tutorials](https://labex.io/tutorials/category/cyber-security)
+- [Cyber Security Tutorials](https://labex.io/tutorials/category/cysec)
   - **Technical Tutorials**, **Cyber Security**, *LabEx.io*
   - Cyber Security tutorials focus on protecting systems and networks from digital attacks. This path covers fundamental concepts, threat detection, and prevention strategies.
 
