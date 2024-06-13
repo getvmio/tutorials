@@ -327,6 +327,10 @@ Explore our extensive collection of free tutorials and courses. Elevate your tec
 - [DevOps: Beginners Guide To Automation With Ansible](https://www.udemy.com/course/devops-beginners-guide-to-automation-with-ansible)
   - **Video Courses**, **Ansible**, **DevOps**, *TetraNoodle Team*
   - Learn the fundamentals of DevOps and automation using Ansible with this beginners guide by TetraNoodle Team and Manuj Aggarwal.
+ 
+- [Ansible Tutorials](https://labex.io/tutorials/category/ansible)
+  - **Technical Tutorials**, **Ansible**, **DevOps**, *LabEx.io*
+  - Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration.
 
 ### Artificial Intelligence
 
